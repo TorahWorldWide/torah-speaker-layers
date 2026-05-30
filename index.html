@@ -5,11 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <title>שלוש שכבות סיני — מי אמר כל מצווה?</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@400;500;700;900&family=Heebo:wght@400;500;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@400;500;700;900&family=Heebo:wght@400;500;700;900&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<canvas id="world"></canvas>
 
 <header id="topbar">
   <div class="title-wrap">
@@ -20,45 +19,26 @@
 </header>
 
 <nav id="layers">
-  <button class="layer-btn active" data-layer="all">
-    <span class="lbl">הכל</span><span class="cnt" id="c-all">0</span>
-  </button>
-  <button class="layer-btn" data-layer="A">
-    <span class="dot" style="background:var(--A)"></span>
-    <span class="lbl">מפי אלוהים</span><span class="cnt" id="c-A">0</span>
-  </button>
-  <button class="layer-btn" data-layer="B">
-    <span class="dot" style="background:var(--B)"></span>
-    <span class="lbl">מפי משה</span><span class="cnt" id="c-B">0</span>
-  </button>
-  <button class="layer-btn" data-layer="C">
-    <span class="dot" style="background:var(--C)"></span>
-    <span class="lbl">קול המספר</span><span class="cnt" id="c-C">0</span>
-  </button>
-  <button class="layer-btn" data-layer="D">
-    <span class="dot" style="background:var(--D)"></span>
-    <span class="lbl">דברים</span><span class="cnt" id="c-D">0</span>
-  </button>
+  <button class="layer-btn active" data-layer="all"><span class="lbl">הכל</span><span class="cnt" id="c-all">0</span></button>
+  <button class="layer-btn" data-layer="A"><span class="dot" style="background:var(--A)"></span><span class="lbl">מפי אלוהים</span><span class="cnt" id="c-A">0</span></button>
+  <button class="layer-btn" data-layer="B"><span class="dot" style="background:var(--B)"></span><span class="lbl">מפי משה</span><span class="cnt" id="c-B">0</span></button>
+  <button class="layer-btn" data-layer="C"><span class="dot" style="background:var(--C)"></span><span class="lbl">קול המספר</span><span class="cnt" id="c-C">0</span></button>
+  <button class="layer-btn" data-layer="D"><span class="dot" style="background:var(--D)"></span><span class="lbl">דברים</span><span class="cnt" id="c-D">0</span></button>
 </nav>
 
-<div id="hint">גרור את הרשת • הקש על מצווה</div>
+<main id="stage">
+  <button class="nav-arrow" id="prev" aria-label="הקודם">›</button>
+  <div id="deck"><!-- cards injected here --></div>
+  <button class="nav-arrow" id="next" aria-label="הבא">‹</button>
+</main>
 
-<!-- detail panel -->
-<div id="overlay"></div>
-<aside id="detail">
-  <button id="closeDetail" aria-label="סגור">×</button>
-  <div id="detailFrame" class="detail-frame"></div>
-  <h2 id="detailHe"></h2>
-  <div class="detail-rows">
-    <div class="drow"><span class="dk">מקור</span><span class="dv" id="detailSrc"></span></div>
-    <div class="drow"><span class="dk">סוג</span><span class="dv" id="detailType"></span></div>
-    <div class="drow"><span class="dk">קביעוּת</span><span class="dv" id="detailPerm"></span></div>
-    <div class="drow"><span class="dk">תחום</span><span class="dv" id="detailCat"></span></div>
-  </div>
-  <p id="detailNote" class="detail-note"></p>
-</aside>
+<footer id="footbar">
+  <div id="counter"><span id="pos">0</span> <span class="sep">/</span> <span id="total">0</span></div>
+  <div id="hint">החלק שמאלה / ימינה כדי לדפדף</div>
+</footer>
 
 <!-- about panel -->
+<div id="overlay"></div>
 <aside id="about">
   <button id="closeAbout" aria-label="סגור">×</button>
   <h2>שלוש שכבות סיני</h2>
@@ -69,11 +49,9 @@
     <li><span class="dot" style="background:var(--C)"></span><b>קול המספר</b> — הלכה שנובעת מהערת נרטיב (גיד הנשה, נשיאת הארון).</li>
     <li><span class="dot" style="background:var(--D)"></span><b>דברים</b> — נאום משה בגוף ראשון. <b>זוהרות</b> = קיימות רק כאן, ללא מקבילה בשמות־במדבר.</li>
   </ul>
-  <p class="about-finding">השאלה שהתחילה הכל: איסור הבערת האש בשבת (שמות לה:ג) נאמר רק בפי משה — לא בקול אלוהי ישיר. התצפית מדויקת. אך האש איננה יחידה: יש לה משפחה — נדרים, תפילין, הקהל, גיד הנשה, ו~46 מצוות שקיימות רק בספר דברים. המצוות הזוהרות במפה הזו הן בדיוק אותן מצוות "מפי משה".</p>
-  <p class="about-foot">הקש על מצווה זוהרת כדי לראות את ההערה שלה.</p>
+  <p class="about-finding">השאלה שהתחילה הכל: איסור הבערת האש בשבת (שמות לה:ג) נאמר רק בפי משה — לא בקול אלוהי ישיר. התצפית מדויקת. אך האש איננה יחידה: יש לה משפחה — נדרים, תפילין, הקהל, גיד הנשה, ו~46 מצוות שקיימות רק בספר דברים.</p>
 </aside>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.19.0/matter.min.js"></script>
 <script src="app.js"></script>
 </body>
 </html>

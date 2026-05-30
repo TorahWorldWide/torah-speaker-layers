@@ -1,96 +1,109 @@
 :root{
-  --A:#e8b53d;   /* divine gold */
-  --B:#4a90e2;   /* moses blue */
-  --C:#9aa0a6;   /* narrator grey */
-  --D:#43c08a;   /* deuteronomy green */
-  --bg0:#0d0f1a;
-  --bg1:#161a2e;
-  --ink:#f4f1e8;
-  --panel:rgba(18,20,34,.96);
+  --A:#e8b53d; --B:#4a90e2; --C:#9aa0a6; --D:#43c08a;
+  --bg0:#0d0f1a; --ink:#f4f1e8; --panel:rgba(18,20,34,.97);
 }
 *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
 html,body{margin:0;height:100%;overflow:hidden;background:var(--bg0);
-  font-family:'Heebo',system-ui,sans-serif;color:var(--ink)}
-#world{position:fixed;inset:0;display:block;
-  background:radial-gradient(ellipse at 50% 12%,#1d2138 0%,var(--bg0) 70%)}
+  font-family:'Heebo',system-ui,sans-serif;color:var(--ink);
+  background-image:radial-gradient(ellipse at 50% 0%,#1d2138 0%,var(--bg0) 65%)}
+body{display:flex;flex-direction:column;height:100dvh}
 
 /* ---- top bar ---- */
-#topbar{position:fixed;top:0;left:0;right:0;z-index:10;
-  display:flex;align-items:center;justify-content:space-between;
-  padding:14px 18px 10px;pointer-events:none}
-.title-wrap{pointer-events:none}
+#topbar{display:flex;align-items:center;justify-content:space-between;
+  padding:16px 18px 8px;flex:none}
 #topbar h1{margin:0;font-family:'Frank Ruhl Libre',serif;font-weight:900;
-  font-size:26px;letter-spacing:.5px;
+  font-size:28px;letter-spacing:.5px;
   background:linear-gradient(90deg,var(--A),#fff 60%,var(--D));
   -webkit-background-clip:text;background-clip:text;color:transparent}
-#topbar .sub{margin:2px 0 0;font-size:12.5px;color:#aab;opacity:.85}
-#aboutBtn{pointer-events:auto;width:34px;height:34px;border-radius:50%;
+#topbar .sub{margin:3px 0 0;font-size:13px;color:#aab;opacity:.85}
+#aboutBtn{width:38px;height:38px;border-radius:50%;flex:none;
   border:1.5px solid #444a6b;background:rgba(255,255,255,.06);color:var(--ink);
-  font-size:18px;font-weight:700;cursor:pointer;line-height:1}
+  font-size:20px;font-weight:700;cursor:pointer}
 #aboutBtn:active{transform:scale(.92)}
 
-/* ---- layer nav ---- */
-#layers{position:fixed;z-index:10;left:0;right:0;bottom:14px;
-  display:flex;gap:7px;justify-content:center;flex-wrap:wrap;padding:0 10px}
-.layer-btn{pointer-events:auto;display:flex;align-items:center;gap:6px;
-  padding:9px 13px;border-radius:22px;border:1.5px solid rgba(255,255,255,.12);
-  background:rgba(20,22,40,.82);backdrop-filter:blur(8px);
-  color:var(--ink);font-family:'Heebo';font-size:14px;font-weight:500;cursor:pointer;
+/* ---- layer tabs ---- */
+#layers{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;
+  padding:6px 12px 10px;flex:none}
+.layer-btn{display:flex;align-items:center;gap:7px;padding:10px 15px;
+  border-radius:24px;border:1.5px solid rgba(255,255,255,.12);
+  background:rgba(20,22,40,.7);color:var(--ink);
+  font-family:'Heebo';font-size:15px;font-weight:500;cursor:pointer;
   transition:transform .12s,border-color .15s,background .15s}
-.layer-btn .dot{width:11px;height:11px;border-radius:50%;flex:none;
-  box-shadow:0 0 7px currentColor}
-.layer-btn .cnt{font-size:12px;font-weight:700;opacity:.7;
-  background:rgba(255,255,255,.1);border-radius:10px;padding:1px 7px;min-width:20px;text-align:center}
-.layer-btn.active{border-color:#fff;background:rgba(255,255,255,.14);transform:translateY(-2px)}
+.layer-btn .dot{width:12px;height:12px;border-radius:50%;flex:none;box-shadow:0 0 7px currentColor}
+.layer-btn .cnt{font-size:13px;font-weight:700;opacity:.75;
+  background:rgba(255,255,255,.1);border-radius:11px;padding:1px 8px;min-width:24px;text-align:center}
+.layer-btn.active{border-color:#fff;background:rgba(255,255,255,.15);transform:translateY(-1px)}
 .layer-btn:active{transform:scale(.95)}
 
-#hint{position:fixed;z-index:9;left:0;right:0;bottom:64px;text-align:center;
-  font-size:12px;color:#889;opacity:.6;pointer-events:none;
-  transition:opacity .6s}
-#hint.gone{opacity:0}
+/* ---- stage / deck ---- */
+#stage{flex:1;position:relative;display:flex;align-items:center;justify-content:center;
+  min-height:0;padding:6px 8px}
+#deck{position:relative;width:min(560px,92vw);height:100%;max-height:560px}
 
-/* ---- detail panel ---- */
-#overlay{position:fixed;inset:0;z-index:19;background:rgba(0,0,0,.5);
-  opacity:0;visibility:hidden;transition:.22s}
-#overlay.open{opacity:1;visibility:visible}
-#detail,#about{position:fixed;z-index:20;left:50%;top:50%;
-  transform:translate(-50%,-46%) scale(.96);
-  width:min(440px,92vw);max-height:84vh;overflow-y:auto;
-  background:var(--panel);border:1px solid rgba(255,255,255,.12);
-  border-radius:20px;padding:26px 22px 24px;
-  box-shadow:0 24px 70px rgba(0,0,0,.6);
-  opacity:0;visibility:hidden;transition:.24s}
-#detail.open,#about.open{opacity:1;visibility:visible;transform:translate(-50%,-50%) scale(1)}
-#closeDetail,#closeAbout{position:absolute;top:12px;left:14px;
-  width:32px;height:32px;border-radius:50%;border:none;
-  background:rgba(255,255,255,.08);color:var(--ink);font-size:22px;cursor:pointer;line-height:1}
-.detail-frame{display:inline-block;font-size:13px;font-weight:700;
-  padding:4px 12px;border-radius:14px;margin-bottom:10px}
-#detailHe{margin:0 0 18px;font-family:'Frank Ruhl Libre',serif;
-  font-weight:700;font-size:24px;line-height:1.35}
-.detail-rows{display:flex;flex-direction:column;gap:1px;
-  border-radius:12px;overflow:hidden;border:1px solid rgba(255,255,255,.08)}
-.drow{display:flex;justify-content:space-between;gap:14px;
-  padding:11px 14px;background:rgba(255,255,255,.035)}
-.dk{color:#8a90b0;font-size:13.5px}
-.dv{font-weight:500;font-size:14.5px;text-align:left}
-.detail-note{margin:16px 2px 0;font-size:14px;line-height:1.6;color:#ffe6a8;
+.card{position:absolute;inset:0;display:flex;flex-direction:column;
+  background:linear-gradient(160deg,rgba(30,34,56,.96),rgba(16,18,32,.98));
+  border:1px solid rgba(255,255,255,.1);border-radius:26px;
+  padding:30px 26px;box-shadow:0 24px 70px rgba(0,0,0,.55);
+  overflow-y:auto;transition:transform .32s cubic-bezier(.22,1,.36,1),opacity .32s;
+  border-top:5px solid var(--accent,#888)}
+.card.flagged{box-shadow:0 0 0 1px rgba(255,248,210,.35),0 24px 70px rgba(0,0,0,.55),0 0 60px -10px var(--accent)}
+
+.card .badge{align-self:flex-start;display:inline-flex;align-items:center;gap:7px;
+  font-size:14px;font-weight:700;padding:7px 14px;border-radius:16px;margin-bottom:6px;
+  background:rgba(255,255,255,.07)}
+.card .badge .dot{width:11px;height:11px;border-radius:50%;box-shadow:0 0 8px currentColor}
+.card .idtag{position:absolute;top:22px;left:24px;font-size:14px;font-weight:700;
+  color:#6c7290}
+
+.card .he{font-family:'Frank Ruhl Libre',serif;font-weight:700;
+  font-size:clamp(26px,6.5vw,40px);line-height:1.32;margin:14px 0 22px;flex:none}
+
+.card .rows{display:flex;flex-direction:column;gap:2px;border-radius:14px;
+  overflow:hidden;border:1px solid rgba(255,255,255,.09);margin-top:auto}
+.card .row{display:flex;justify-content:space-between;gap:14px;
+  padding:14px 16px;background:rgba(255,255,255,.04)}
+.card .k{color:#8a90b0;font-size:15px}
+.card .v{font-weight:500;font-size:16px;text-align:left}
+
+.card .note{margin-top:16px;font-size:15.5px;line-height:1.6;color:#ffe6a8;
   background:rgba(232,181,61,.1);border-right:3px solid var(--A);
-  padding:11px 13px;border-radius:8px;display:none}
-.detail-note.show{display:block}
+  padding:13px 15px;border-radius:10px}
+
+/* arrows */
+.nav-arrow{position:absolute;top:50%;transform:translateY(-50%);z-index:5;
+  width:48px;height:48px;border-radius:50%;border:1.5px solid rgba(255,255,255,.15);
+  background:rgba(20,22,40,.8);backdrop-filter:blur(6px);color:var(--ink);
+  font-size:30px;font-weight:400;line-height:1;cursor:pointer;
+  display:flex;align-items:center;justify-content:center}
+.nav-arrow:active{transform:translateY(-50%) scale(.9)}
+#prev{right:2px}#next{left:2px}
+@media(max-width:620px){.nav-arrow{width:42px;height:42px;font-size:26px}#prev{right:-2px}#next{left:-2px}}
+
+/* ---- footer ---- */
+#footbar{flex:none;padding:8px 0 16px;text-align:center}
+#counter{font-size:20px;font-weight:700;font-family:'Heebo';letter-spacing:1px}
+#counter .sep{color:#555c80;margin:0 4px}
+#pos{color:#fff}#total{color:#8a90b0}
+#hint{font-size:12.5px;color:#889;opacity:.6;margin-top:4px}
 
 /* ---- about ---- */
-#about h2{margin:0 0 14px;font-family:'Frank Ruhl Libre',serif;font-size:24px;font-weight:900}
-#about p{font-size:14.5px;line-height:1.65;color:#d8d8e6;margin:0 0 14px}
-.about-legend{list-style:none;padding:0;margin:0 0 16px;display:flex;flex-direction:column;gap:10px}
-.about-legend li{display:flex;align-items:baseline;gap:9px;font-size:14px;line-height:1.5;color:#d8d8e6}
+#overlay{position:fixed;inset:0;z-index:19;background:rgba(0,0,0,.55);
+  opacity:0;visibility:hidden;transition:.22s}
+#overlay.open{opacity:1;visibility:visible}
+#about{position:fixed;z-index:20;left:50%;top:50%;
+  transform:translate(-50%,-46%) scale(.96);
+  width:min(460px,92vw);max-height:84vh;overflow-y:auto;
+  background:var(--panel);border:1px solid rgba(255,255,255,.12);border-radius:22px;
+  padding:28px 24px;box-shadow:0 24px 70px rgba(0,0,0,.6);
+  opacity:0;visibility:hidden;transition:.24s}
+#about.open{opacity:1;visibility:visible;transform:translate(-50%,-50%) scale(1)}
+#closeAbout{position:absolute;top:13px;left:15px;width:34px;height:34px;border-radius:50%;
+  border:none;background:rgba(255,255,255,.08);color:var(--ink);font-size:22px;cursor:pointer}
+#about h2{margin:0 0 14px;font-family:'Frank Ruhl Libre',serif;font-size:25px;font-weight:900}
+#about p{font-size:15px;line-height:1.65;color:#d8d8e6;margin:0 0 14px}
+.about-legend{list-style:none;padding:0;margin:0 0 16px;display:flex;flex-direction:column;gap:11px}
+.about-legend li{display:flex;align-items:baseline;gap:9px;font-size:14.5px;line-height:1.5;color:#d8d8e6}
 .about-legend .dot{width:12px;height:12px;border-radius:50%;flex:none;transform:translateY(2px);box-shadow:0 0 7px currentColor}
 .about-finding{background:rgba(74,144,226,.1);border-right:3px solid var(--B);
   padding:13px 15px;border-radius:10px;color:#cfe0f5 !important}
-.about-foot{font-size:13px !important;color:#9aa !important;text-align:center}
-
-@media(max-width:430px){
-  #topbar h1{font-size:22px}
-  .layer-btn{padding:8px 11px;font-size:13px;gap:5px}
-  .layer-btn .lbl{font-size:13px}
-}
+@media(max-width:430px){#topbar h1{font-size:24px}.layer-btn{padding:9px 12px;font-size:14px}}
