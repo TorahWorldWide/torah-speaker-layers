@@ -9,11 +9,12 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<canvas id="sky"></canvas>
 
 <header id="topbar">
   <div class="title-wrap">
     <h1>שלוש שכבות סיני</h1>
-    <p class="sub">כל מצוות התורה — לפי מי שאמר אותן</p>
+    <p class="sub">מפת המצוות — גרור כדי לטייל בין הקונסטלציות</p>
   </div>
   <button id="aboutBtn" aria-label="אודות">?</button>
 </header>
@@ -26,30 +27,41 @@
   <button class="layer-btn" data-layer="D"><span class="dot" style="background:var(--D)"></span><span class="lbl">דברים</span><span class="cnt" id="c-D">0</span></button>
 </nav>
 
-<main id="stage">
-  <button class="nav-arrow" id="prev" aria-label="הקודם">›</button>
-  <div id="deck"><!-- cards injected here --></div>
-  <button class="nav-arrow" id="next" aria-label="הבא">‹</button>
-</main>
+<div id="hint">גרור כדי לטייל • גלגל / צביטה לזום • הקש על כוכב</div>
 
-<footer id="footbar">
-  <div id="counter"><span id="pos">0</span> <span class="sep">/</span> <span id="total">0</span></div>
-  <div id="hint">החלק שמאלה / ימינה כדי לדפדף</div>
-</footer>
+<div id="zoomctl">
+  <button id="zin" aria-label="זום פנימה">+</button>
+  <button id="zout" aria-label="זום החוצה">−</button>
+  <button id="zfit" aria-label="התאם">⤢</button>
+</div>
 
-<!-- about panel -->
+<!-- detail -->
 <div id="overlay"></div>
+<aside id="detail">
+  <button id="closeDetail" aria-label="סגור">×</button>
+  <div id="detailFrame" class="detail-frame"></div>
+  <h2 id="detailHe"></h2>
+  <div class="detail-rows">
+    <div class="drow"><span class="dk">מקור</span><span class="dv" id="detailSrc"></span></div>
+    <div class="drow"><span class="dk">סוג</span><span class="dv" id="detailType"></span></div>
+    <div class="drow"><span class="dk">קביעוּת</span><span class="dv" id="detailPerm"></span></div>
+    <div class="drow"><span class="dk">תחום</span><span class="dv" id="detailCat"></span></div>
+  </div>
+  <p id="detailNote" class="detail-note"></p>
+</aside>
+
+<!-- about -->
 <aside id="about">
   <button id="closeAbout" aria-label="סגור">×</button>
   <h2>שלוש שכבות סיני</h2>
-  <p>כל מצווה בתורה נאמרה על־ידי מישהו. רובן בקול אלוהי ישיר — <b>"וַיְדַבֵּר ה' אֶל מֹשֶׁה לֵּאמֹר"</b>. אך לא כולן.</p>
+  <p>כל מצווה בתורה היא כוכב. הכוכבים מחוברים לקונסטלציות לפי תחום הלכתי. גרור כדי לטייל, צבוט/גלגל כדי לזום.</p>
   <ul class="about-legend">
     <li><span class="dot" style="background:var(--A)"></span><b>מפי אלוהים</b> — דיבור אלוהי ישיר לתוכן המצווה.</li>
-    <li><span class="dot" style="background:var(--B)"></span><b>מפי משה</b> — משה אומר לעם "אֵלֶּה הַדְּבָרִים", בלי מסגרת אלוהית ישירה לתוכן.</li>
-    <li><span class="dot" style="background:var(--C)"></span><b>קול המספר</b> — הלכה שנובעת מהערת נרטיב (גיד הנשה, נשיאת הארון).</li>
-    <li><span class="dot" style="background:var(--D)"></span><b>דברים</b> — נאום משה בגוף ראשון. <b>זוהרות</b> = קיימות רק כאן, ללא מקבילה בשמות־במדבר.</li>
+    <li><span class="dot" style="background:var(--B)"></span><b>מפי משה</b> — משה אומר לעם "אֵלֶּה הַדְּבָרִים", בלי מסגרת אלוהית ישירה.</li>
+    <li><span class="dot" style="background:var(--C)"></span><b>קול המספר</b> — הלכה מהערת נרטיב (גיד הנשה, נשיאת הארון).</li>
+    <li><span class="dot" style="background:var(--D)"></span><b>דברים</b> — נאום משה. <b>הזוהרים</b> = קיימים רק כאן, ללא מקבילה בשמות־במדבר.</li>
   </ul>
-  <p class="about-finding">השאלה שהתחילה הכל: איסור הבערת האש בשבת (שמות לה:ג) נאמר רק בפי משה — לא בקול אלוהי ישיר. התצפית מדויקת. אך האש איננה יחידה: יש לה משפחה — נדרים, תפילין, הקהל, גיד הנשה, ו~46 מצוות שקיימות רק בספר דברים.</p>
+  <p class="about-finding">השאלה שהתחילה הכל: איסור הבערת האש בשבת (שמות לה:ג) נאמר רק בפי משה — לא בקול אלוהי ישיר. התצפית מדויקת, אך לאש יש משפחה: נדרים, תפילין, הקהל, גיד הנשה, ו~46 מצוות שקיימות רק בספר דברים. אלה הכוכבים הזוהרים במפה.</p>
 </aside>
 
 <script src="app.js"></script>
