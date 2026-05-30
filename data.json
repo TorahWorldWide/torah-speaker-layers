@@ -8,7 +8,8 @@
   "permanence": "eternal",
   "category": "יסודות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "זָכוֹר אֶת יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ… לֹא תַעֲשֶׂה כָל מְלָאכָה"
  },
  {
   "id": 2,
@@ -19,7 +20,8 @@
   "permanence": "eternal",
   "category": "יסודות / ע\"ז",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "זָכוֹר אֶת יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ… לֹא תַעֲשֶׂה כָל מְלָאכָה"
  },
  {
   "id": 3,
@@ -30,7 +32,8 @@
   "permanence": "eternal",
   "category": "יסודות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 4,
@@ -41,7 +44,8 @@
   "permanence": "eternal",
   "category": "יסודות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 5,
@@ -52,7 +56,8 @@
   "permanence": "eternal",
   "category": "יסודות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 6,
@@ -63,7 +68,8 @@
   "permanence": "eternal",
   "category": "יסודות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "תָּמִים יִהְיֶה"
  },
  {
   "id": 7,
@@ -74,7 +80,8 @@
   "permanence": "eternal",
   "category": "יסודות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "תָּמִים יִהְיֶה"
  },
  {
   "id": 8,
@@ -85,7 +92,8 @@
   "permanence": "eternal",
   "category": "יסודות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 9,
@@ -96,7 +104,8 @@
   "permanence": "eternal",
   "category": "נבואה",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": null
  },
  {
   "id": 10,
@@ -107,7 +116,8 @@
   "permanence": "eternal",
   "category": "נבואה",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": null
  },
  {
   "id": 11,
@@ -118,7 +128,8 @@
   "permanence": "eternal",
   "category": "מידות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "וַיְדַבֵּר ה' אֶל מֹשֶׁה בְּהַר סִינַי לֵאמֹר"
  },
  {
   "id": 12,
@@ -129,7 +140,8 @@
   "permanence": "eternal",
   "category": "מידות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 13,
@@ -140,7 +152,8 @@
   "permanence": "eternal",
   "category": "בין אדם לחברו",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 14,
@@ -151,7 +164,8 @@
   "permanence": "eternal",
   "category": "בין אדם לחברו",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 15,
@@ -162,7 +176,8 @@
   "permanence": "eternal",
   "category": "בין אדם לחברו",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 16,
@@ -173,7 +188,8 @@
   "permanence": "eternal",
   "category": "בין אדם לחברו",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 17,
@@ -184,7 +200,8 @@
   "permanence": "eternal",
   "category": "בין אדם לחברו",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 18,
@@ -195,7 +212,8 @@
   "permanence": "eternal",
   "category": "בין אדם לחברו",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "כִּי יַבְעֶר אִישׁ שָׂדֶה"
  },
  {
   "id": 19,
@@ -206,7 +224,8 @@
   "permanence": "eternal",
   "category": "בין אדם לחברו",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 20,
@@ -217,7 +236,8 @@
   "permanence": "eternal",
   "category": "בין אדם לחברו",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 21,
@@ -228,7 +248,8 @@
   "permanence": "eternal",
   "category": "בין אדם לחברו",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 22,
@@ -239,7 +260,8 @@
   "permanence": "eternal",
   "category": "תלמוד תורה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 23,
@@ -250,7 +272,8 @@
   "permanence": "eternal",
   "category": "בין אדם לחברו",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 24,
@@ -261,7 +284,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 25,
@@ -272,7 +296,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 26,
@@ -283,7 +308,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "כִּי יַבְעֶר אִישׁ שָׂדֶה"
  },
  {
   "id": 27,
@@ -294,7 +320,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "זָכוֹר אֶת יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ… לֹא תַעֲשֶׂה כָל מְלָאכָה"
  },
  {
   "id": 28,
@@ -305,7 +332,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "זָכוֹר אֶת יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ… לֹא תַעֲשֶׂה כָל מְלָאכָה"
  },
  {
   "id": 29,
@@ -316,7 +344,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "זָכוֹר אֶת יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ… לֹא תַעֲשֶׂה כָל מְלָאכָה"
  },
  {
   "id": 30,
@@ -327,7 +356,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 31,
@@ -338,7 +368,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "זָכוֹר אֶת יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ… לֹא תַעֲשֶׂה כָל מְלָאכָה"
  },
  {
   "id": 32,
@@ -349,7 +380,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֧ר יְהֹוָ֛ה אֶל־מֹשֶׁ֖ה בְּעַֽרְבֹ֣ת מוֹאָ֑ב"
  },
  {
   "id": 33,
@@ -360,7 +392,8 @@
   "permanence": "temple-land",
   "category": "ע\"ז",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": null
  },
  {
   "id": 34,
@@ -371,7 +404,8 @@
   "permanence": "temple-land",
   "category": "ע\"ז",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 35,
@@ -382,7 +416,8 @@
   "permanence": "temple-land",
   "category": "ע\"ז",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 36,
@@ -393,7 +428,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 37,
@@ -404,7 +440,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": null
  },
  {
   "id": 38,
@@ -415,7 +452,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": null
  },
  {
   "id": 39,
@@ -426,7 +464,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": null
  },
  {
   "id": 40,
@@ -437,7 +476,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 41,
@@ -448,7 +488,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": null
  },
  {
   "id": 42,
@@ -459,7 +500,8 @@
   "permanence": "eternal",
   "category": "נבואה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 43,
@@ -470,7 +512,8 @@
   "permanence": "eternal",
   "category": "נבואה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 44,
@@ -481,7 +524,8 @@
   "permanence": "eternal",
   "category": "נבואה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 45,
@@ -492,7 +536,8 @@
   "permanence": "eternal",
   "category": "נבואה",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": null
  },
  {
   "id": 46,
@@ -503,7 +548,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֧ר יְהֹוָ֛ה אֶל־מֹשֶׁ֖ה בְּעַֽרְבֹ֣ת מוֹאָ֑ב"
  },
  {
   "id": 47,
@@ -514,7 +560,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 48,
@@ -525,7 +572,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 49,
@@ -536,7 +584,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 50,
@@ -547,7 +596,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 51,
@@ -558,7 +608,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וְהָיָ֗ה אִם־שָׁמ֤וֹעַ תִּשְׁמַע֙... וּבָ֧אוּ עָלֶ֛יךָ כׇּל־הַבְּרָכ֥וֹת"
  },
  {
   "id": 52,
@@ -569,7 +620,8 @@
   "permanence": "temple-land",
   "category": "ע\"ז",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 53,
@@ -580,7 +632,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 54,
@@ -591,7 +644,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 55,
@@ -602,7 +656,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 56,
@@ -613,7 +668,8 @@
   "permanence": "temple-land",
   "category": "ע\"ז",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 57,
@@ -624,7 +680,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 58,
@@ -635,7 +692,8 @@
   "permanence": "temple-land",
   "category": "ע\"ז",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֧ר יְהֹוָ֛ה אֶל־מֹשֶׁ֖ה בְּעַֽרְבֹ֣ת מוֹאָ֑ב"
  },
  {
   "id": 59,
@@ -646,7 +704,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וְאִישׁ אֲשֶׁר יִנְאַף... מוֹת יוּמַת הַנֹּאֵף וְהַנֹּאָפֶת"
  },
  {
   "id": 60,
@@ -657,7 +716,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 61,
@@ -668,7 +728,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 62,
@@ -679,7 +740,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 63,
@@ -690,7 +752,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 64,
@@ -701,7 +764,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 65,
@@ -712,7 +776,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 66,
@@ -723,7 +788,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 67,
@@ -734,7 +800,8 @@
   "permanence": "eternal",
   "category": "ע\"ז",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 68,
@@ -745,7 +812,8 @@
   "permanence": "eternal",
   "category": "חוקת הגוף",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 69,
@@ -756,7 +824,8 @@
   "permanence": "eternal",
   "category": "חוקת הגוף",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 70,
@@ -767,7 +836,8 @@
   "permanence": "eternal",
   "category": "חוקת הגוף",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "לֹא תַחֲרֹשׁ בְּשׁוֹר וּבַחֲמֹר"
  },
  {
   "id": 71,
@@ -778,7 +848,8 @@
   "permanence": "eternal",
   "category": "חוקת הגוף",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": "לֹא תַחֲרֹשׁ בְּשׁוֹר וּבַחֲמֹר"
  },
  {
   "id": 72,
@@ -789,7 +860,8 @@
   "permanence": "eternal",
   "category": "חוקת הגוף",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 73,
@@ -800,7 +872,8 @@
   "permanence": "eternal",
   "category": "חוקת הגוף / אבלות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "וַיְדַבֵּר ה' אֶל מֹשֶׁה וְאֶל אַהֲרֹן לֵאמֹר אֲלֵהֶם דַּבְּרוּ אֶל בְּנֵי יִשְׂרָאֵל"
  },
  {
   "id": 74,
@@ -811,7 +884,8 @@
   "permanence": "eternal",
   "category": "חוקת הגוף / אבלות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "וַיְדַבֵּר ה' אֶל מֹשֶׁה וְאֶל אַהֲרֹן לֵאמֹר אֲלֵהֶם דַּבְּרוּ אֶל בְּנֵי יִשְׂרָאֵל"
  },
  {
   "id": 75,
@@ -822,7 +896,8 @@
   "permanence": "eternal",
   "category": "תשובה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ צַו אֶת־בְּנֵי יִשְׂרָאֵל וִישַׁלְּחוּ מִן־הַמַּחֲנֶה כָּל־צָרוּעַ וְכָל־זָב..."
  },
  {
   "id": 76,
@@ -833,7 +908,8 @@
   "permanence": "eternal",
   "category": "תפילה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 77,
@@ -844,7 +920,8 @@
   "permanence": "eternal",
   "category": "תפילה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֧ר יְהֹוָ֛ה אֶל־מֹשֶׁ֖ה בְּעַֽרְבֹ֣ת מוֹאָ֑ב"
  },
  {
   "id": 78,
@@ -855,7 +932,8 @@
   "permanence": "eternal",
   "category": "כהונה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר ה' אֶל־מֹשֶׁה לֵּאמֹר. דַּבֵּר אֶל־בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם אִישׁ אוֹ־אִשָּׁה כִּי יַפְלִא לִנְדֹּר נֶדֶר נָזִיר..."
  },
  {
   "id": 79,
@@ -866,7 +944,8 @@
   "permanence": "eternal",
   "category": "תפילין",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 80,
@@ -877,7 +956,8 @@
   "permanence": "eternal",
   "category": "תפילין",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 81,
@@ -888,7 +968,8 @@
   "permanence": "eternal",
   "category": "מזוזה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 82,
@@ -899,7 +980,8 @@
   "permanence": "eternal",
   "category": "ת\"ת",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "וַיֹּ֤אמֶר ה' אֶל־מֹשֶׁ֔ה הִנְּךָ֥ שֹׁכֵ֖ב עִם־אֲבֹתֶ֑יךָ... וְעַתָּ֗ה כִּתְב֤וּ לָכֶם֙ אֶת־הַשִּׁירָ֣ה הַזֹּ֔את וְלַמְּדָ֥הּ אֶת־בְּנֵֽי־יִשְׂרָאֵ֖ל"
  },
  {
   "id": 83,
@@ -910,7 +992,8 @@
   "permanence": "temple-land",
   "category": "מלכות",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": null
  },
  {
   "id": 84,
@@ -921,7 +1004,8 @@
   "permanence": "eternal",
   "category": "ציצית",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 85,
@@ -932,7 +1016,8 @@
   "permanence": "eternal",
   "category": "ברכות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 86,
@@ -943,7 +1028,8 @@
   "permanence": "eternal",
   "category": "מילה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיֹּ֤אמֶר אֱלֹהִים֙ אֶל אַבְרָהָ֔ם"
  },
  {
   "id": 87,
@@ -954,7 +1040,8 @@
   "permanence": "eternal",
   "category": "שבת",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֧ר יְהֹוָ֛ה אֶל־מֹשֶׁ֖ה בְּעַֽרְבֹ֣ת מוֹאָ֑ב"
  },
  {
   "id": 88,
@@ -965,7 +1052,8 @@
   "permanence": "eternal",
   "category": "שבת",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "זָכוֹר אֶת יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ… לֹא תַעֲשֶׂה כָל מְלָאכָה"
  },
  {
   "id": 89,
@@ -976,7 +1064,8 @@
   "permanence": "eternal",
   "category": "שבת",
   "flagged": true,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיֹּאמֶר אֲלֵהֶם אֵלֶּה הַדְּבָרִים אֲשֶׁר צִוָּה יְהוָה לַעֲשֹׂת אֹתָם"
  },
  {
   "id": 90,
@@ -987,7 +1076,8 @@
   "permanence": "eternal",
   "category": "שבת",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיֹּאמֶר מֹשֶׁה זֶה הַדָּבָר אֲשֶׁר צִוָּה ה' מְלֹא הָעֹמֶר מִמֶּנּוּ לְמִשְׁמֶרֶת"
  },
  {
   "id": 91,
@@ -998,7 +1088,8 @@
   "permanence": "eternal",
   "category": "שבת",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "זָכוֹר אֶת יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ… לֹא תַעֲשֶׂה כָל מְלָאכָה"
  },
  {
   "id": 92,
@@ -1009,7 +1100,8 @@
   "permanence": "eternal",
   "category": "יוה\"כ",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 93,
@@ -1020,7 +1112,8 @@
   "permanence": "eternal",
   "category": "יוה\"כ",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 94,
@@ -1031,7 +1124,8 @@
   "permanence": "eternal",
   "category": "יוה\"כ",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיֹּאמֶר ה' אֶל אַהֲרֹן"
  },
  {
   "id": 95,
@@ -1042,7 +1136,8 @@
   "permanence": "eternal",
   "category": "יוה\"כ",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 96,
@@ -1053,7 +1148,8 @@
   "permanence": "eternal",
   "category": "מועדים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 97,
@@ -1064,7 +1160,8 @@
   "permanence": "eternal",
   "category": "מועדים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 98,
@@ -1075,7 +1172,8 @@
   "permanence": "eternal",
   "category": "מועדים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 100,
@@ -1086,7 +1184,8 @@
   "permanence": "eternal",
   "category": "מועדים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 101,
@@ -1097,7 +1196,8 @@
   "permanence": "eternal",
   "category": "מועדים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 102,
@@ -1108,7 +1208,8 @@
   "permanence": "eternal",
   "category": "מועדים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 103,
@@ -1119,7 +1220,8 @@
   "permanence": "eternal",
   "category": "מועדים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 104,
@@ -1130,7 +1232,8 @@
   "permanence": "eternal",
   "category": "מועדים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 105,
@@ -1141,7 +1244,8 @@
   "permanence": "eternal",
   "category": "מועדים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 106,
@@ -1152,7 +1256,8 @@
   "permanence": "eternal",
   "category": "מועדים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 107,
@@ -1163,7 +1268,8 @@
   "permanence": "eternal",
   "category": "מועדים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 108,
@@ -1174,7 +1280,8 @@
   "permanence": "eternal",
   "category": "פסח",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 109,
@@ -1185,7 +1292,8 @@
   "permanence": "eternal",
   "category": "פסח",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 110,
@@ -1196,7 +1304,8 @@
   "permanence": "eternal",
   "category": "פסח",
   "flagged": true,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וְהִגַּדְתָּ לְבִנְךָ"
  },
  {
   "id": 111,
@@ -1207,7 +1316,8 @@
   "permanence": "eternal",
   "category": "פסח",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 112,
@@ -1218,7 +1328,8 @@
   "permanence": "eternal",
   "category": "פסח",
   "flagged": true,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וְהִגַּדְתָּ לְבִנְךָ"
  },
  {
   "id": 113,
@@ -1229,7 +1340,8 @@
   "permanence": "eternal",
   "category": "פסח",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 114,
@@ -1240,7 +1352,8 @@
   "permanence": "eternal",
   "category": "פסח",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 115,
@@ -1251,7 +1364,8 @@
   "permanence": "eternal",
   "category": "פסח",
   "flagged": true,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וְהִגַּדְתָּ לְבִנְךָ"
  },
  {
   "id": 116,
@@ -1262,7 +1376,8 @@
   "permanence": "eternal",
   "category": "מועדים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר מֹשֶׁה אֶל רָאשֵׁי הַמַּטּוֹת... זֶה הַדָּבָר אֲשֶׁר צִוָּה יְהוָה"
  },
  {
   "id": 117,
@@ -1273,7 +1388,8 @@
   "permanence": "eternal",
   "category": "סוכות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 118,
@@ -1284,7 +1400,8 @@
   "permanence": "eternal",
   "category": "סוכות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 119,
@@ -1295,7 +1412,8 @@
   "permanence": "temple-land",
   "category": "מקדש",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 120,
@@ -1306,7 +1424,8 @@
   "permanence": "eternal",
   "category": "זמנים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 121,
@@ -1317,7 +1436,8 @@
   "permanence": "eternal",
   "category": "תפילה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ עֲשֵׂה לְךָ שְׁתֵּי חֲצוֹצְרֹת כֶּסֶף..."
  },
  {
   "id": 122,
@@ -1328,7 +1448,8 @@
   "permanence": "eternal",
   "category": "אישות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "נָקִי יִהְיֶה לְבֵיתוֹ שָׁנָה אֶחָת"
  },
  {
   "id": 123,
@@ -1339,7 +1460,8 @@
   "permanence": "eternal",
   "category": "אישות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה"
  },
  {
   "id": 124,
@@ -1350,7 +1472,8 @@
   "permanence": "eternal",
   "category": "אישות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 125,
@@ -1361,7 +1484,8 @@
   "permanence": "eternal",
   "category": "אישות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְבָרֶךְ אֹתָם אֱלֹהִים וַיֹּאמֶר לָהֶם"
  },
  {
   "id": 126,
@@ -1372,7 +1496,8 @@
   "permanence": "eternal",
   "category": "אישות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "נָקִי יִהְיֶה לְבֵיתוֹ שָׁנָה אֶחָת"
  },
  {
   "id": 127,
@@ -1383,7 +1508,8 @@
   "permanence": "eternal",
   "category": "אישות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "נָקִי יִהְיֶה לְבֵיתוֹ שָׁנָה אֶחָת"
  },
  {
   "id": 128,
@@ -1394,7 +1520,8 @@
   "permanence": "eternal",
   "category": "אישות",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": "זָכוֹר אֵת אֲשֶׁר עָשָׂה לְךָ עֲמָלֵק"
  },
  {
   "id": 129,
@@ -1405,7 +1532,8 @@
   "permanence": "eternal",
   "category": "אישות",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": "זָכוֹר אֵת אֲשֶׁר עָשָׂה לְךָ עֲמָלֵק"
  },
  {
   "id": 130,
@@ -1416,7 +1544,8 @@
   "permanence": "eternal",
   "category": "אישות",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": "זָכוֹר אֵת אֲשֶׁר עָשָׂה לְךָ עֲמָלֵק"
  },
  {
   "id": 131,
@@ -1427,7 +1556,8 @@
   "permanence": "eternal",
   "category": "נזיקין / אישות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "כִּי יַבְעֶר אִישׁ שָׂדֶה"
  },
  {
   "id": 132,
@@ -1438,7 +1568,8 @@
   "permanence": "eternal",
   "category": "אישות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "לֹא תַחֲרֹשׁ בְּשׁוֹר וּבַחֲמֹר"
  },
  {
   "id": 133,
@@ -1449,7 +1580,8 @@
   "permanence": "eternal",
   "category": "אישות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "לֹא תַחֲרֹשׁ בְּשׁוֹר וּבַחֲמֹר"
  },
  {
   "id": 134,
@@ -1460,7 +1592,8 @@
   "permanence": "eternal",
   "category": "אישות",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": "לֹא תַחֲרֹשׁ בְּשׁוֹר וּבַחֲמֹר"
  },
  {
   "id": 135,
@@ -1471,7 +1604,8 @@
   "permanence": "eternal",
   "category": "אישות",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": "לֹא תַחֲרֹשׁ בְּשׁוֹר וּבַחֲמֹר"
  },
  {
   "id": 136,
@@ -1482,7 +1616,8 @@
   "permanence": "temple-land",
   "category": "אישות / מקדש",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ צַו אֶת־בְּנֵי יִשְׂרָאֵל וִישַׁלְּחוּ מִן־הַמַּחֲנֶה כָּל־צָרוּעַ וְכָל־זָב..."
  },
  {
   "id": 137,
@@ -1493,7 +1628,8 @@
   "permanence": "temple-land",
   "category": "אישות / מקדש",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ צַו אֶת־בְּנֵי יִשְׂרָאֵל וִישַׁלְּחוּ מִן־הַמַּחֲנֶה כָּל־צָרוּעַ וְכָל־זָב..."
  },
  {
   "id": 138,
@@ -1504,7 +1640,8 @@
   "permanence": "temple-land",
   "category": "אישות / מקדש",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ צַו אֶת־בְּנֵי יִשְׂרָאֵל וִישַׁלְּחוּ מִן־הַמַּחֲנֶה כָּל־צָרוּעַ וְכָל־זָב..."
  },
  {
   "id": 139,
@@ -1515,7 +1652,8 @@
   "permanence": "eternal",
   "category": "עריות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 140,
@@ -1526,7 +1664,8 @@
   "permanence": "eternal",
   "category": "עריות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 141,
@@ -1537,7 +1676,8 @@
   "permanence": "eternal",
   "category": "עריות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 142,
@@ -1548,7 +1688,8 @@
   "permanence": "eternal",
   "category": "עריות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 143,
@@ -1559,7 +1700,8 @@
   "permanence": "eternal",
   "category": "עריות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 144,
@@ -1570,7 +1712,8 @@
   "permanence": "eternal",
   "category": "עריות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 146,
@@ -1581,7 +1724,8 @@
   "permanence": "eternal",
   "category": "עריות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 147,
@@ -1592,7 +1736,8 @@
   "permanence": "eternal",
   "category": "עריות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 149,
@@ -1603,7 +1748,8 @@
   "permanence": "eternal",
   "category": "עריות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 150,
@@ -1614,7 +1760,8 @@
   "permanence": "eternal",
   "category": "עריות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 151,
@@ -1625,7 +1772,8 @@
   "permanence": "eternal",
   "category": "עריות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 152,
@@ -1636,7 +1784,8 @@
   "permanence": "eternal",
   "category": "עריות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 153,
@@ -1647,7 +1796,8 @@
   "permanence": "eternal",
   "category": "עריות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 154,
@@ -1658,7 +1808,8 @@
   "permanence": "eternal",
   "category": "עריות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 155,
@@ -1669,7 +1820,8 @@
   "permanence": "eternal",
   "category": "עריות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 156,
@@ -1680,7 +1832,8 @@
   "permanence": "eternal",
   "category": "עריות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 157,
@@ -1691,7 +1844,8 @@
   "permanence": "eternal",
   "category": "עריות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 158,
@@ -1702,7 +1856,8 @@
   "permanence": "eternal",
   "category": "עריות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 159,
@@ -1713,7 +1868,8 @@
   "permanence": "eternal",
   "category": "עריות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 160,
@@ -1724,7 +1880,8 @@
   "permanence": "eternal",
   "category": "עריות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 161,
@@ -1735,7 +1892,8 @@
   "permanence": "eternal",
   "category": "עריות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 162,
@@ -1746,7 +1904,8 @@
   "permanence": "eternal",
   "category": "עריות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 163,
@@ -1757,7 +1916,8 @@
   "permanence": "eternal",
   "category": "עריות",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה"
  },
  {
   "id": 164,
@@ -1768,7 +1928,8 @@
   "permanence": "eternal",
   "category": "עריות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה"
  },
  {
   "id": 165,
@@ -1779,7 +1940,8 @@
   "permanence": "eternal",
   "category": "עריות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה"
  },
  {
   "id": 166,
@@ -1790,7 +1952,8 @@
   "permanence": "eternal",
   "category": "עריות",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה"
  },
  {
   "id": 167,
@@ -1801,7 +1964,8 @@
   "permanence": "eternal",
   "category": "עריות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה"
  },
  {
   "id": 168,
@@ -1812,7 +1976,8 @@
   "permanence": "eternal",
   "category": "חוקת הגוף",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "תָּמִים יִהְיֶה"
  },
  {
   "id": 169,
@@ -1823,7 +1988,8 @@
   "permanence": "temple-land",
   "category": "כהונה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 170,
@@ -1834,7 +2000,8 @@
   "permanence": "temple-land",
   "category": "כהונה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 171,
@@ -1845,7 +2012,8 @@
   "permanence": "temple-land",
   "category": "כהונה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 172,
@@ -1856,7 +2024,8 @@
   "permanence": "temple-land",
   "category": "כהונה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 173,
@@ -1867,7 +2036,8 @@
   "permanence": "temple-land",
   "category": "כהונה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 174,
@@ -1878,7 +2048,8 @@
   "permanence": "temple-land",
   "category": "כהונה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 175,
@@ -1889,7 +2060,8 @@
   "permanence": "eternal",
   "category": "עריות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 176,
@@ -1900,7 +2072,8 @@
   "permanence": "eternal",
   "category": "כשרות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר ה' אֶל מֹשֶׁה וְאֶל אַהֲרֹן לֵאמֹר אֲלֵהֶם דַּבְּרוּ אֶל בְּנֵי יִשְׂרָאֵל"
  },
  {
   "id": 177,
@@ -1911,7 +2084,8 @@
   "permanence": "eternal",
   "category": "כשרות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "וַיְדַבֵּר ה' אֶל מֹשֶׁה וְאֶל אַהֲרֹן לֵאמֹר אֲלֵהֶם דַּבְּרוּ אֶל בְּנֵי יִשְׂרָאֵל"
  },
  {
   "id": 178,
@@ -1922,7 +2096,8 @@
   "permanence": "eternal",
   "category": "כשרות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר ה' אֶל מֹשֶׁה וְאֶל אַהֲרֹן לֵאמֹר אֲלֵהֶם דַּבְּרוּ אֶל בְּנֵי יִשְׂרָאֵל"
  },
  {
   "id": 179,
@@ -1933,7 +2108,8 @@
   "permanence": "eternal",
   "category": "כשרות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר ה' אֶל מֹשֶׁה וְאֶל אַהֲרֹן לֵאמֹר אֲלֵהֶם דַּבְּרוּ אֶל בְּנֵי יִשְׂרָאֵל"
  },
  {
   "id": 180,
@@ -1944,7 +2120,8 @@
   "permanence": "eternal",
   "category": "כשרות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר ה' אֶל מֹשֶׁה וְאֶל אַהֲרֹן לֵאמֹר אֲלֵהֶם דַּבְּרוּ אֶל בְּנֵי יִשְׂרָאֵל"
  },
  {
   "id": 181,
@@ -1955,7 +2132,8 @@
   "permanence": "eternal",
   "category": "כשרות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר ה' אֶל מֹשֶׁה וְאֶל אַהֲרֹן לֵאמֹר אֲלֵהֶם דַּבְּרוּ אֶל בְּנֵי יִשְׂרָאֵל"
  },
  {
   "id": 182,
@@ -1966,7 +2144,8 @@
   "permanence": "eternal",
   "category": "כשרות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר ה' אֶל מֹשֶׁה וְאֶל אַהֲרֹן לֵאמֹר אֲלֵהֶם דַּבְּרוּ אֶל בְּנֵי יִשְׂרָאֵל"
  },
  {
   "id": 183,
@@ -1977,7 +2156,8 @@
   "permanence": "eternal",
   "category": "כשרות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "וַיְדַבֵּר ה' אֶל מֹשֶׁה וְאֶל אַהֲרֹן לֵאמֹר אֲלֵהֶם דַּבְּרוּ אֶל בְּנֵי יִשְׂרָאֵל"
  },
  {
   "id": 184,
@@ -1988,7 +2168,8 @@
   "permanence": "eternal",
   "category": "כשרות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר ה' אֶל מֹשֶׁה וְאֶל אַהֲרֹן לֵאמֹר אֲלֵהֶם דַּבְּרוּ אֶל בְּנֵי יִשְׂרָאֵל"
  },
  {
   "id": 185,
@@ -1999,7 +2180,8 @@
   "permanence": "eternal",
   "category": "כשרות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר ה' אֶל מֹשֶׁה וְאֶל אַהֲרֹן לֵאמֹר אֲלֵהֶם דַּבְּרוּ אֶל בְּנֵי יִשְׂרָאֵל"
  },
  {
   "id": 186,
@@ -2010,7 +2192,8 @@
   "permanence": "eternal",
   "category": "כשרות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר ה' אֶל מֹשֶׁה וְאֶל אַהֲרֹן לֵאמֹר אֲלֵהֶם דַּבְּרוּ אֶל בְּנֵי יִשְׂרָאֵל"
  },
  {
   "id": 187,
@@ -2021,7 +2204,8 @@
   "permanence": "eternal",
   "category": "כשרות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר ה' אֶל מֹשֶׁה וְאֶל אַהֲרֹן לֵאמֹר אֲלֵהֶם דַּבְּרוּ אֶל בְּנֵי יִשְׂרָאֵל"
  },
  {
   "id": 188,
@@ -2032,7 +2216,8 @@
   "permanence": "eternal",
   "category": "כשרות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "וַיְדַבֵּר ה' אֶל מֹשֶׁה וְאֶל אַהֲרֹן לֵאמֹר אֲלֵהֶם דַּבְּרוּ אֶל בְּנֵי יִשְׂרָאֵל"
  },
  {
   "id": 189,
@@ -2043,7 +2228,8 @@
   "permanence": "eternal",
   "category": "כשרות / נזיקין",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 190,
@@ -2054,7 +2240,8 @@
   "permanence": "eternal",
   "category": "כשרות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "כִּי יַבְעֶר אִישׁ שָׂדֶה"
  },
  {
   "id": 191,
@@ -2065,7 +2252,8 @@
   "permanence": "eternal",
   "category": "כשרות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 192,
@@ -2076,7 +2264,8 @@
   "permanence": "eternal",
   "category": "כשרות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "חֻקַּת עוֹלָם לְדֹרֹתֵיכֶם בְּכֹל מוֹשְׁבֹתֵיכֶם"
  },
  {
   "id": 193,
@@ -2087,7 +2276,8 @@
   "permanence": "eternal",
   "category": "כשרות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "חֻקַּת עוֹלָם לְדֹרֹתֵיכֶם בְּכֹל מוֹשְׁבֹתֵיכֶם"
  },
  {
   "id": 194,
@@ -2098,7 +2288,8 @@
   "permanence": "eternal",
   "category": "כשרות",
   "flagged": true,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "עַל כֵּן לֹא יֹאכְלוּ בְנֵי יִשְׂרָאֵל"
  },
  {
   "id": 195,
@@ -2109,7 +2300,8 @@
   "permanence": "eternal",
   "category": "כשרות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֧ר יְהֹוָ֛ה אֶל־מֹשֶׁ֖ה בְּעַֽרְבֹ֣ת מוֹאָ֑ב"
  },
  {
   "id": 196,
@@ -2120,7 +2312,8 @@
   "permanence": "eternal",
   "category": "כשרות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹֽא־תְבַשֵּׁ֥ל גְּדִ֖י בַּחֲלֵ֥ב אִמּֽוֹ"
  },
  {
   "id": 197,
@@ -2131,7 +2324,8 @@
   "permanence": "temple-land",
   "category": "תבואה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 198,
@@ -2142,7 +2336,8 @@
   "permanence": "temple-land",
   "category": "תבואה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 199,
@@ -2153,7 +2348,8 @@
   "permanence": "temple-land",
   "category": "תבואה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 200,
@@ -2164,7 +2360,8 @@
   "permanence": "temple-land",
   "category": "פירות / ארץ",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 201,
@@ -2175,7 +2372,8 @@
   "permanence": "temple-land",
   "category": "כלאים / ארץ",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "לֹא תַחֲרֹשׁ בְּשׁוֹר וּבַחֲמֹר"
  },
  {
   "id": 202,
@@ -2186,7 +2384,8 @@
   "permanence": "temple-land",
   "category": "תרומות / ארץ",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "תָּמִים יִהְיֶה"
  },
  {
   "id": 203,
@@ -2197,7 +2396,8 @@
   "permanence": "eternal",
   "category": "ע\"ז / כשרות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 204,
@@ -2208,7 +2408,8 @@
   "permanence": "eternal",
   "category": "כשרות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 205,
@@ -2219,7 +2420,8 @@
   "permanence": "eternal",
   "category": "כשרות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "תָּמִים יִהְיֶה"
  },
  {
   "id": 206,
@@ -2230,7 +2432,8 @@
   "permanence": "eternal",
   "category": "בין אדם לחברו",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "דַּבֵּר אֶל כָּל עֲדַת בְּנֵי יִשְׂרָאֵל"
  },
  {
   "id": 208,
@@ -2241,7 +2444,8 @@
   "permanence": "eternal",
   "category": "משפט / נזיקין",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 209,
@@ -2252,7 +2456,8 @@
   "permanence": "eternal",
   "category": "כיבוד חכמים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 210,
@@ -2263,7 +2468,8 @@
   "permanence": "eternal",
   "category": "בין אדם להורים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "זָכוֹר אֶת יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ… לֹא תַעֲשֶׂה כָל מְלָאכָה"
  },
  {
   "id": 211,
@@ -2274,7 +2480,8 @@
   "permanence": "eternal",
   "category": "בין אדם להורים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 212,
@@ -2285,7 +2492,8 @@
   "permanence": "eternal",
   "category": "אישות",
   "flagged": true,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְבָרֶךְ אֹתָם אֱלֹהִים וַיֹּאמֶר לָהֶם"
  },
  {
   "id": 213,
@@ -2296,7 +2504,8 @@
   "permanence": "eternal",
   "category": "אישות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "נָקִי יִהְיֶה לְבֵיתוֹ שָׁנָה אֶחָת"
  },
  {
   "id": 214,
@@ -2307,7 +2516,8 @@
   "permanence": "eternal",
   "category": "אישות / צבא",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "נָקִי יִהְיֶה לְבֵיתוֹ שָׁנָה אֶחָת"
  },
  {
   "id": 215,
@@ -2318,7 +2528,8 @@
   "permanence": "eternal",
   "category": "ברית",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיֹּאמֶר ה' אֶל מֹשֶׁה לֵּאמֹר"
  },
  {
   "id": 216,
@@ -2329,7 +2540,8 @@
   "permanence": "eternal",
   "category": "אישות",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": "זָכוֹר אֵת אֲשֶׁר עָשָׂה לְךָ עֲמָלֵק"
  },
  {
   "id": 218,
@@ -2340,7 +2552,8 @@
   "permanence": "eternal",
   "category": "אישות / קנסות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "לֹא תַחֲרֹשׁ בְּשׁוֹר וּבַחֲמֹר"
  },
  {
   "id": 219,
@@ -2351,7 +2564,8 @@
   "permanence": "eternal",
   "category": "אישות",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": "לֹא תַחֲרֹשׁ בְּשׁוֹר וּבַחֲמֹר"
  },
  {
   "id": 220,
@@ -2362,7 +2576,8 @@
   "permanence": "temple-land",
   "category": "אישות / טהרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר ה' אֶל מֹשֶׁה"
  },
  {
   "id": 221,
@@ -2373,7 +2588,8 @@
   "permanence": "eternal",
   "category": "סנהדרין / עונשין",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": "זָכוֹר אֵת אֲשֶׁר עָשָׂה לְךָ עֲמָלֵק"
  },
  {
   "id": 222,
@@ -2384,7 +2600,8 @@
   "permanence": "eternal",
   "category": "סנהדרין",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "עַל פִּי שְׁנֵי עֵדִים אוֹ שְׁלֹשָׁה עֵדִים יָקוּם דָּבָר"
  },
  {
   "id": 223,
@@ -2395,7 +2612,8 @@
   "permanence": "temple-land",
   "category": "סנהדרין / מלכות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 224,
@@ -2406,7 +2624,8 @@
   "permanence": "temple-land",
   "category": "סנהדרין",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": null
  },
  {
   "id": 225,
@@ -2417,7 +2636,8 @@
   "permanence": "temple-land",
   "category": "עבדות / נזיקין",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 226,
@@ -2428,7 +2648,8 @@
   "permanence": "temple-land",
   "category": "אישות / עבדות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 227,
@@ -2439,7 +2660,8 @@
   "permanence": "temple-land",
   "category": "עבדות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 228,
@@ -2450,7 +2672,8 @@
   "permanence": "temple-land",
   "category": "עבדות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר ה' אֶל מֹשֶׁה בְּהַר סִינַי לֵאמֹר"
  },
  {
   "id": 229,
@@ -2461,7 +2684,8 @@
   "permanence": "temple-land",
   "category": "עבדות / צדקה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 230,
@@ -2472,7 +2696,8 @@
   "permanence": "eternal",
   "category": "נזיקין",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 231,
@@ -2483,7 +2708,8 @@
   "permanence": "eternal",
   "category": "נזיקין",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 232,
@@ -2494,7 +2720,8 @@
   "permanence": "eternal",
   "category": "נזיקין",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 233,
@@ -2505,7 +2732,8 @@
   "permanence": "eternal",
   "category": "נזיקין",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "כִּי יַבְעֶר אִישׁ שָׂדֶה"
  },
  {
   "id": 234,
@@ -2516,7 +2744,8 @@
   "permanence": "eternal",
   "category": "נזיקין",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "כִּי יַבְעֶר אִישׁ שָׂדֶה"
  },
  {
   "id": 235,
@@ -2527,7 +2756,8 @@
   "permanence": "eternal",
   "category": "נזיקין",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "כִּי יַבְעֶר אִישׁ שָׂדֶה"
  },
  {
   "id": 236,
@@ -2538,7 +2768,8 @@
   "permanence": "eternal",
   "category": "נזיקין",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "כִּי יַבְעֶר אִישׁ שָׂדֶה"
  },
  {
   "id": 237,
@@ -2549,7 +2780,8 @@
   "permanence": "eternal",
   "category": "נזיקין",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "כִּי יַבְעֶר אִישׁ שָׂדֶה"
  },
  {
   "id": 238,
@@ -2560,7 +2792,8 @@
   "permanence": "eternal",
   "category": "משא ומתן",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר ה' אֶל מֹשֶׁה בְּהַר סִינַי לֵאמֹר"
  },
  {
   "id": 239,
@@ -2571,7 +2804,8 @@
   "permanence": "eternal",
   "category": "סנהדרין / נזיקין",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "כִּי יַבְעֶר אִישׁ שָׂדֶה"
  },
  {
   "id": 240,
@@ -2582,7 +2816,8 @@
   "permanence": "eternal",
   "category": "הצלת חיים",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "זָכוֹר אֵת אֲשֶׁר עָשָׂה לְךָ עֲמָלֵק"
  },
  {
   "id": 241,
@@ -2593,7 +2828,8 @@
   "permanence": "eternal",
   "category": "נחלות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיֹּאמֶר ה' אֶל מֹשֶׁה"
  },
  {
   "id": 242,
@@ -2604,7 +2840,8 @@
   "permanence": "eternal",
   "category": "סנהדרין / מלכות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 243,
@@ -2615,7 +2852,8 @@
   "permanence": "eternal",
   "category": "סנהדרין",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 244,
@@ -2626,7 +2864,8 @@
   "permanence": "eternal",
   "category": "סנהדרין",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיִּקְרָא… וַיְדַבֵּר"
  },
  {
   "id": 245,
@@ -2637,7 +2876,8 @@
   "permanence": "eternal",
   "category": "סנהדרין",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 246,
@@ -2648,7 +2888,8 @@
   "permanence": "eternal",
   "category": "סנהדרין",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 247,
@@ -2659,7 +2900,8 @@
   "permanence": "temple-land",
   "category": "סנהדרין",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 248,
@@ -2670,7 +2912,8 @@
   "permanence": "temple-land",
   "category": "סנהדרין",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "עַל פִּי שְׁנֵי עֵדִים אוֹ שְׁלֹשָׁה עֵדִים יָקוּם דָּבָר"
  },
  {
   "id": 249,
@@ -2681,7 +2924,8 @@
   "permanence": "eternal",
   "category": "עבודה זרה / אמונה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "זָכוֹר אֶת יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ… לֹא תַעֲשֶׂה כָל מְלָאכָה"
  },
  {
   "id": 250,
@@ -2692,7 +2936,8 @@
   "permanence": "eternal",
   "category": "עבודה זרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "זָכוֹר אֶת יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ… לֹא תַעֲשֶׂה כָל מְלָאכָה"
  },
  {
   "id": 251,
@@ -2703,7 +2948,8 @@
   "permanence": "eternal",
   "category": "עבודה זרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 252,
@@ -2714,7 +2960,8 @@
   "permanence": "eternal",
   "category": "עבודה זרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "זָכוֹר אֶת יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ… לֹא תַעֲשֶׂה כָל מְלָאכָה"
  },
  {
   "id": 253,
@@ -2725,7 +2972,8 @@
   "permanence": "eternal",
   "category": "עבודה זרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "זָכוֹר אֶת יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ… לֹא תַעֲשֶׂה כָל מְלָאכָה"
  },
  {
   "id": 254,
@@ -2736,7 +2984,8 @@
   "permanence": "eternal",
   "category": "עבודה זרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "זָכוֹר אֶת יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ… לֹא תַעֲשֶׂה כָל מְלָאכָה"
  },
  {
   "id": 255,
@@ -2747,7 +2996,8 @@
   "permanence": "eternal",
   "category": "עבודה זרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 256,
@@ -2758,7 +3008,8 @@
   "permanence": "eternal",
   "category": "עבודה זרה / כשפים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 257,
@@ -2769,7 +3020,8 @@
   "permanence": "eternal",
   "category": "עבודה זרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 258,
@@ -2780,7 +3032,8 @@
   "permanence": "eternal",
   "category": "עבודה זרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 259,
@@ -2791,7 +3044,8 @@
   "permanence": "eternal",
   "category": "עבודה זרה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 260,
@@ -2802,7 +3056,8 @@
   "permanence": "eternal",
   "category": "עבודה זרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וְהָיָ֗ה אִם־שָׁמ֤וֹעַ תִּשְׁמַע֙... וּבָ֧אוּ עָלֶ֛יךָ כׇּל־הַבְּרָכ֥וֹת"
  },
  {
   "id": 261,
@@ -2813,7 +3068,8 @@
   "permanence": "temple-land",
   "category": "עבודה זרה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 262,
@@ -2824,7 +3080,8 @@
   "permanence": "eternal",
   "category": "עבודה זרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֧ר יְהֹוָ֛ה אֶל־מֹשֶׁ֖ה בְּעַֽרְבֹ֣ת מוֹאָ֑ב"
  },
  {
   "id": 263,
@@ -2835,7 +3092,8 @@
   "permanence": "eternal",
   "category": "עבודה זרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֧ר יְהֹוָ֛ה אֶל־מֹשֶׁ֖ה בְּעַֽרְבֹ֣ת מוֹאָ֑ב"
  },
  {
   "id": 264,
@@ -2846,7 +3104,8 @@
   "permanence": "eternal",
   "category": "עבודה זרה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 265,
@@ -2857,7 +3116,8 @@
   "permanence": "eternal",
   "category": "עבודה זרה",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": null
  },
  {
   "id": 266,
@@ -2868,7 +3128,8 @@
   "permanence": "eternal",
   "category": "עבודה זרה",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": null
  },
  {
   "id": 267,
@@ -2879,7 +3140,8 @@
   "permanence": "eternal",
   "category": "עבודה זרה",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": null
  },
  {
   "id": 268,
@@ -2890,7 +3152,8 @@
   "permanence": "eternal",
   "category": "עבודה זרה",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": null
  },
  {
   "id": 269,
@@ -2901,7 +3164,8 @@
   "permanence": "eternal",
   "category": "עבודה זרה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 270,
@@ -2912,7 +3176,8 @@
   "permanence": "eternal",
   "category": "עבודה זרה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 271,
@@ -2923,7 +3188,8 @@
   "permanence": "eternal",
   "category": "עבודה זרה",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": null
  },
  {
   "id": 272,
@@ -2934,7 +3200,8 @@
   "permanence": "eternal",
   "category": "עבודה זרה",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": null
  },
  {
   "id": 273,
@@ -2945,7 +3212,8 @@
   "permanence": "eternal",
   "category": "עבודה זרה",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": null
  },
  {
   "id": 274,
@@ -2956,7 +3224,8 @@
   "permanence": "eternal",
   "category": "נביא שקר",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 275,
@@ -2967,7 +3236,8 @@
   "permanence": "eternal",
   "category": "נביא שקר",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 276,
@@ -2978,7 +3248,8 @@
   "permanence": "eternal",
   "category": "נביא שקר",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 277,
@@ -2989,7 +3260,8 @@
   "permanence": "eternal",
   "category": "נביא שקר",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": null
  },
  {
   "id": 278,
@@ -3000,7 +3272,8 @@
   "permanence": "eternal",
   "category": "עבודה זרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 279,
@@ -3011,7 +3284,8 @@
   "permanence": "eternal",
   "category": "עבודה זרה / חוקות הגויים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וְאִישׁ אֲשֶׁר יִנְאַף... מוֹת יוּמַת הַנֹּאֵף וְהַנֹּאָפֶת"
  },
  {
   "id": 280,
@@ -3022,7 +3296,8 @@
   "permanence": "eternal",
   "category": "כשפים",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 281,
@@ -3033,7 +3308,8 @@
   "permanence": "eternal",
   "category": "כשפים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 282,
@@ -3044,7 +3320,8 @@
   "permanence": "eternal",
   "category": "כשפים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 283,
@@ -3055,7 +3332,8 @@
   "permanence": "eternal",
   "category": "כשפים",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 284,
@@ -3066,7 +3344,8 @@
   "permanence": "eternal",
   "category": "כשפים",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 285,
@@ -3077,7 +3356,8 @@
   "permanence": "eternal",
   "category": "כשפים",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 286,
@@ -3088,7 +3368,8 @@
   "permanence": "eternal",
   "category": "כשפים",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 287,
@@ -3099,7 +3380,8 @@
   "permanence": "eternal",
   "category": "כשפים",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 288,
@@ -3110,7 +3392,8 @@
   "permanence": "eternal",
   "category": "כשפים / חוקות הגויים",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "לֹא תַחֲרֹשׁ בְּשׁוֹר וּבַחֲמֹר"
  },
  {
   "id": 289,
@@ -3121,7 +3404,8 @@
   "permanence": "eternal",
   "category": "חוקות הגויים",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "לֹא תַחֲרֹשׁ בְּשׁוֹר וּבַחֲמֹר"
  },
  {
   "id": 290,
@@ -3132,7 +3416,8 @@
   "permanence": "eternal",
   "category": "חוקות הגויים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 291,
@@ -3143,7 +3428,8 @@
   "permanence": "eternal",
   "category": "חוקות הגויים",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "לֹא תַחֲרֹשׁ בְּשׁוֹר וּבַחֲמֹר"
  },
  {
   "id": 292,
@@ -3154,7 +3440,8 @@
   "permanence": "eternal",
   "category": "חוקות הגויים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 293,
@@ -3165,7 +3452,8 @@
   "permanence": "eternal",
   "category": "חוקות הגויים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 294,
@@ -3176,7 +3464,8 @@
   "permanence": "eternal",
   "category": "חוקות הגויים",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "וַיְדַבֵּר ה' אֶל מֹשֶׁה וְאֶל אַהֲרֹן לֵאמֹר אֲלֵהֶם דַּבְּרוּ אֶל בְּנֵי יִשְׂרָאֵל"
  },
  {
   "id": 295,
@@ -3187,7 +3476,8 @@
   "permanence": "eternal",
   "category": "חוקות הגויים",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "וַיְדַבֵּר ה' אֶל מֹשֶׁה וְאֶל אַהֲרֹן לֵאמֹר אֲלֵהֶם דַּבְּרוּ אֶל בְּנֵי יִשְׂרָאֵל"
  },
  {
   "id": 296,
@@ -3198,7 +3488,8 @@
   "permanence": "eternal",
   "category": "מלכות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 297,
@@ -3209,7 +3500,8 @@
   "permanence": "eternal",
   "category": "אמונה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 298,
@@ -3220,7 +3512,8 @@
   "permanence": "eternal",
   "category": "מלחמה / כניסה לארץ",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֧ר יְהֹוָ֛ה אֶל־מֹשֶׁ֖ה בְּעַֽרְבֹ֣ת מוֹאָ֑ב"
  },
  {
   "id": 299,
@@ -3231,7 +3524,8 @@
   "permanence": "one-time",
   "category": "מלחמה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 300,
@@ -3242,7 +3536,8 @@
   "permanence": "one-time",
   "category": "מלחמה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 301,
@@ -3253,7 +3548,8 @@
   "permanence": "temple-land",
   "category": "מלחמה / עבודה זרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֧ר יְהֹוָ֛ה אֶל־מֹשֶׁ֖ה בְּעַֽרְבֹ֣ת מוֹאָ֑ב"
  },
  {
   "id": 302,
@@ -3264,7 +3560,8 @@
   "permanence": "eternal",
   "category": "אישות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 303,
@@ -3275,7 +3572,8 @@
   "permanence": "eternal",
   "category": "קהל",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה"
  },
  {
   "id": 304,
@@ -3286,7 +3584,8 @@
   "permanence": "eternal",
   "category": "קהל",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה"
  },
  {
   "id": 306,
@@ -3297,7 +3596,8 @@
   "permanence": "temple-land",
   "category": "מלחמה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה"
  },
  {
   "id": 307,
@@ -3308,7 +3608,8 @@
   "permanence": "eternal",
   "category": "מלחמה / בל תשחית",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 308,
@@ -3319,7 +3620,8 @@
   "permanence": "eternal",
   "category": "מלחמה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 309,
@@ -3330,7 +3632,8 @@
   "permanence": "eternal",
   "category": "מלחמה / זיכרון",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": "זָכוֹר אֵת אֲשֶׁר עָשָׂה לְךָ עֲמָלֵק"
  },
  {
   "id": 310,
@@ -3341,7 +3644,8 @@
   "permanence": "eternal",
   "category": "חילול השם",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "כִּי יַבְעֶר אִישׁ שָׂדֶה"
  },
  {
   "id": 311,
@@ -3352,7 +3656,8 @@
   "permanence": "eternal",
   "category": "שבועות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "זָכוֹר אֶת יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ… לֹא תַעֲשֶׂה כָל מְלָאכָה"
  },
  {
   "id": 312,
@@ -3363,7 +3668,8 @@
   "permanence": "eternal",
   "category": "שבועות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 313,
@@ -3374,7 +3680,8 @@
   "permanence": "eternal",
   "category": "חילול השם",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "תָּמִים יִהְיֶה"
  },
  {
   "id": 314,
@@ -3385,7 +3692,8 @@
   "permanence": "eternal",
   "category": "אמונה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 315,
@@ -3396,7 +3704,8 @@
   "permanence": "eternal",
   "category": "קדושת השם",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 316,
@@ -3407,7 +3716,8 @@
   "permanence": "eternal",
   "category": "סנהדרין",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 317,
@@ -3418,7 +3728,8 @@
   "permanence": "temple-land",
   "category": "מקדש",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיֹּאמֶר ה' אֶל אַהֲרֹן"
  },
  {
   "id": 318,
@@ -3429,7 +3740,8 @@
   "permanence": "temple-land",
   "category": "מקדש",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיֹּאמֶר ה' אֶל אַהֲרֹן"
  },
  {
   "id": 319,
@@ -3440,7 +3752,8 @@
   "permanence": "temple-land",
   "category": "כהונה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 320,
@@ -3451,7 +3764,8 @@
   "permanence": "temple-land",
   "category": "כהונה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 321,
@@ -3462,7 +3776,8 @@
   "permanence": "temple-land",
   "category": "כהונה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 322,
@@ -3473,7 +3788,8 @@
   "permanence": "temple-land",
   "category": "כהונה / לויה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "רֵאשִׁית בִּכּוּרֵי אַדְמָתְךָ תָּבִיא בֵּית ה'"
  },
  {
   "id": 323,
@@ -3484,7 +3800,8 @@
   "permanence": "temple-land",
   "category": "כהונה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "כִּי כֵן צֻוֵּיתִי"
  },
  {
   "id": 324,
@@ -3495,7 +3812,8 @@
   "permanence": "temple-land",
   "category": "מקדש / כהונה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "רֵאשִׁית בִּכּוּרֵי אַדְמָתְךָ תָּבִיא בֵּית ה'"
  },
  {
   "id": 325,
@@ -3506,7 +3824,8 @@
   "permanence": "temple-land",
   "category": "טהרה / כהונה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "תָּמִים יִהְיֶה"
  },
  {
   "id": 326,
@@ -3517,7 +3836,8 @@
   "permanence": "temple-land",
   "category": "טהרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 327,
@@ -3528,7 +3848,8 @@
   "permanence": "temple-land",
   "category": "טהרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ צַו אֶת־בְּנֵי יִשְׂרָאֵל וִישַׁלְּחוּ מִן־הַמַּחֲנֶה כָּל־צָרוּעַ וְכָל־זָב..."
  },
  {
   "id": 328,
@@ -3539,7 +3860,8 @@
   "permanence": "temple-land",
   "category": "טהרה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה"
  },
  {
   "id": 329,
@@ -3550,7 +3872,8 @@
   "permanence": "temple-land",
   "category": "מקדש",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "זָכוֹר אֶת יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ… לֹא תַעֲשֶׂה כָל מְלָאכָה"
  },
  {
   "id": 330,
@@ -3561,7 +3884,8 @@
   "permanence": "temple-land",
   "category": "מקדש",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "זָכוֹר אֶת יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ… לֹא תַעֲשֶׂה כָל מְלָאכָה"
  },
  {
   "id": 331,
@@ -3572,7 +3896,8 @@
   "permanence": "temple-land",
   "category": "מקדש / קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "אֵשׁ תָּמִיד תּוּקַד עַל הַמִּזְבֵּחַ"
  },
  {
   "id": 332,
@@ -3583,7 +3908,8 @@
   "permanence": "temple-land",
   "category": "מקדש / קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 333,
@@ -3594,7 +3920,8 @@
   "permanence": "eternal",
   "category": "מקדש / כהונה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 334,
@@ -3605,7 +3932,8 @@
   "permanence": "eternal",
   "category": "מקדש / כהונה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 335,
@@ -3616,7 +3944,8 @@
   "permanence": "eternal",
   "category": "מקדש / קטורת",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 336,
@@ -3627,7 +3956,8 @@
   "permanence": "temple-land",
   "category": "מקדש / כלים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 337,
@@ -3638,7 +3968,8 @@
   "permanence": "temple-land",
   "category": "בגדי כהונה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 338,
@@ -3649,7 +3980,8 @@
   "permanence": "temple-land",
   "category": "בגדי כהונה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 339,
@@ -3660,7 +3992,8 @@
   "permanence": "temple-land",
   "category": "קרבנות / שחוטי חוץ",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 340,
@@ -3671,7 +4004,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "ו. שתיהן מנוסחות בפריים־A מובהק — מה שמעיד שגם זרם H (הקרוב לפי מחקרים מסוימים לדבריםא־כמעט־D) שמר על מסגרת A. השומר העריכתי מקפיד על"
  },
  {
   "id": 341,
@@ -3682,7 +4016,8 @@
   "permanence": "temple-land",
   "category": "קרבנות / פסולי המזבח",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "תָּמִים יִהְיֶה"
  },
  {
   "id": 342,
@@ -3693,7 +4028,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "תָּמִים יִהְיֶה"
  },
  {
   "id": 343,
@@ -3704,7 +4040,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "תָּמִים יִהְיֶה"
  },
  {
   "id": 344,
@@ -3715,7 +4052,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "תָּמִים יִהְיֶה"
  },
  {
   "id": 345,
@@ -3726,7 +4064,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "תָּמִים יִהְיֶה"
  },
  {
   "id": 346,
@@ -3737,7 +4076,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "תָּמִים יִהְיֶה"
  },
  {
   "id": 347,
@@ -3748,7 +4088,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "תָּמִים יִהְיֶה"
  },
  {
   "id": 348,
@@ -3759,7 +4100,8 @@
   "permanence": "temple-land",
   "category": "קרבנות / מנחות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיִּקְרָא… וַיְדַבֵּר"
  },
  {
   "id": 349,
@@ -3770,7 +4112,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "רֵאשִׁית בִּכּוּרֵי אַדְמָתְךָ תָּבִיא בֵּית ה'"
  },
  {
   "id": 350,
@@ -3781,7 +4124,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה"
  },
  {
   "id": 351,
@@ -3792,7 +4136,8 @@
   "permanence": "eternal",
   "category": "קרבנות / כשרות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "תָּמִים יִהְיֶה"
  },
  {
   "id": 352,
@@ -3803,7 +4148,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וְהוּא עֵד אוֹ רָאָה אוֹ יָדָע"
  },
  {
   "id": 353,
@@ -3814,7 +4160,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וְהוּא עֵד אוֹ רָאָה אוֹ יָדָע"
  },
  {
   "id": 354,
@@ -3825,7 +4172,8 @@
   "permanence": "temple-land",
   "category": "קרבנות / סוטה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ צַו אֶת־בְּנֵי יִשְׂרָאֵל וִישַׁלְּחוּ מִן־הַמַּחֲנֶה כָּל־צָרוּעַ וְכָל־זָב..."
  },
  {
   "id": 355,
@@ -3836,7 +4184,8 @@
   "permanence": "temple-land",
   "category": "קרבנות / סוטה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ צַו אֶת־בְּנֵי יִשְׂרָאֵל וִישַׁלְּחוּ מִן־הַמַּחֲנֶה כָּל־צָרוּעַ וְכָל־זָב..."
  },
  {
   "id": 356,
@@ -3847,7 +4196,8 @@
   "permanence": "temple-land",
   "category": "קרבנות / תמורה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר ה' אֶל מֹשֶׁה"
  },
  {
   "id": 357,
@@ -3858,7 +4208,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה"
  },
  {
   "id": 358,
@@ -3869,7 +4220,8 @@
   "permanence": "eternal",
   "category": "קרבנות / בכורות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "רֵאשִׁית בִּכּוּרֵי אַדְמָתְךָ תָּבִיא בֵּית ה'"
  },
  {
   "id": 359,
@@ -3880,7 +4232,8 @@
   "permanence": "temple-land",
   "category": "קרבנות / מעשרות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה"
  },
  {
   "id": 360,
@@ -3891,7 +4244,8 @@
   "permanence": "temple-land",
   "category": "קרבנות / מעשרות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה"
  },
  {
   "id": 361,
@@ -3902,7 +4256,8 @@
   "permanence": "temple-land",
   "category": "קרבנות / חרמים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה"
  },
  {
   "id": 362,
@@ -3913,7 +4268,8 @@
   "permanence": "temple-land",
   "category": "קרבנות / חרמים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה"
  },
  {
   "id": 363,
@@ -3924,7 +4280,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וְהוּא עֵד אוֹ רָאָה אוֹ יָדָע"
  },
  {
   "id": 364,
@@ -3935,7 +4292,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 365,
@@ -3946,7 +4304,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 366,
@@ -3957,7 +4316,8 @@
   "permanence": "temple-land",
   "category": "קרבנות / פסח",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹֽא־תְבַשֵּׁ֥ל גְּדִ֖י בַּחֲלֵ֥ב אִמּֽוֹ"
  },
  {
   "id": 367,
@@ -3968,7 +4328,8 @@
   "permanence": "temple-land",
   "category": "קרבנות / פסח",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֧ר יְהֹוָ֛ה אֶל־מֹשֶׁ֖ה בְּעַֽרְבֹ֣ת מוֹאָ֑ב"
  },
  {
   "id": 368,
@@ -3979,7 +4340,8 @@
   "permanence": "temple-land",
   "category": "קרבנות / פסח",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיֹּאמֶר ה' אֶל מֹשֶׁה וְאֶל אַהֲרֹן"
  },
  {
   "id": 369,
@@ -3990,7 +4352,8 @@
   "permanence": "temple-land",
   "category": "קרבנות / חגיגה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 370,
@@ -4001,7 +4364,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "תָּמִים יִהְיֶה"
  },
  {
   "id": 371,
@@ -4012,7 +4376,8 @@
   "permanence": "temple-land",
   "category": "קרבנות / פסח",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 372,
@@ -4023,7 +4388,8 @@
   "permanence": "temple-land",
   "category": "קרבנות / פסח",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 373,
@@ -4034,7 +4400,8 @@
   "permanence": "temple-land",
   "category": "קרבנות / פסח",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 374,
@@ -4045,7 +4412,8 @@
   "permanence": "temple-land",
   "category": "קרבנות / פסח",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 375,
@@ -4056,7 +4424,8 @@
   "permanence": "temple-land",
   "category": "קרבנות / פסח",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 376,
@@ -4067,7 +4436,8 @@
   "permanence": "temple-land",
   "category": "קרבנות / פסח",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 377,
@@ -4078,7 +4448,8 @@
   "permanence": "temple-land",
   "category": "קרבנות / פסח",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר"
  },
  {
   "id": 378,
@@ -4089,7 +4460,8 @@
   "permanence": "temple-land",
   "category": "קרבנות / פסח",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְהִי אֲנָשִׁים אֲשֶׁר הָיוּ טְמֵאִים לְנֶפֶשׁ אָדָם... וַיֹּאמֶר אֲלֵהֶם מֹשֶׁה עִמְדוּ וְאֶשְׁמְעָה מַה־יְצַוֶּה ה' לָכֶם."
  },
  {
   "id": 379,
@@ -4100,7 +4472,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 380,
@@ -4111,7 +4484,8 @@
   "permanence": "temple-land",
   "category": "קרבנות / טהרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 381,
@@ -4122,7 +4496,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 382,
@@ -4133,7 +4508,8 @@
   "permanence": "temple-land",
   "category": "טהרה / קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיֹּ֤אמֶר אֱלֹהִים֙ אֶל אַבְרָהָ֔ם"
  },
  {
   "id": 383,
@@ -4144,7 +4520,8 @@
   "permanence": "eternal",
   "category": "תרומות ומעשרות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "תָּמִים יִהְיֶה"
  },
  {
   "id": 384,
@@ -4155,7 +4532,8 @@
   "permanence": "eternal",
   "category": "תרומות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "תָּמִים יִהְיֶה"
  },
  {
   "id": 385,
@@ -4166,7 +4544,8 @@
   "permanence": "eternal",
   "category": "תרומות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "תָּמִים יִהְיֶה"
  },
  {
   "id": 386,
@@ -4177,7 +4556,8 @@
   "permanence": "eternal",
   "category": "תרומות / טהרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "תָּמִים יִהְיֶה"
  },
  {
   "id": 387,
@@ -4188,7 +4568,8 @@
   "permanence": "eternal",
   "category": "כהונה / תרומות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "תָּמִים יִהְיֶה"
  },
  {
   "id": 388,
@@ -4199,7 +4580,8 @@
   "permanence": "temple-land",
   "category": "תרומות ומעשרות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "תָּמִים יִהְיֶה"
  },
  {
   "id": 389,
@@ -4210,7 +4592,8 @@
   "permanence": "temple-land",
   "category": "תרומות ומעשרות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "כִּי יַבְעֶר אִישׁ שָׂדֶה"
  },
  {
   "id": 390,
@@ -4221,7 +4604,8 @@
   "permanence": "temple-land",
   "category": "מעשרות",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": null
  },
  {
   "id": 393,
@@ -4232,7 +4616,8 @@
   "permanence": "temple-land",
   "category": "מעשרות / בכורות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 394,
@@ -4243,7 +4628,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 395,
@@ -4254,7 +4640,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 396,
@@ -4265,7 +4652,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 397,
@@ -4276,7 +4664,8 @@
   "permanence": "temple-land",
   "category": "מתנות כהונה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 398,
@@ -4287,7 +4676,8 @@
   "permanence": "temple-land",
   "category": "מעשרות / טהרה",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": null
  },
  {
   "id": 400,
@@ -4298,7 +4688,8 @@
   "permanence": "temple-land",
   "category": "מעשרות",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": null
  },
  {
   "id": 401,
@@ -4309,7 +4700,8 @@
   "permanence": "temple-land",
   "category": "תרומות ומעשרות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "תָּמִים יִהְיֶה"
  },
  {
   "id": 402,
@@ -4320,7 +4712,8 @@
   "permanence": "temple-land",
   "category": "מתנות עניים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 403,
@@ -4331,7 +4724,8 @@
   "permanence": "temple-land",
   "category": "מתנות עניים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 404,
@@ -4342,7 +4736,8 @@
   "permanence": "temple-land",
   "category": "מתנות עניים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 405,
@@ -4353,7 +4748,8 @@
   "permanence": "temple-land",
   "category": "מתנות עניים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 406,
@@ -4364,7 +4760,8 @@
   "permanence": "temple-land",
   "category": "מתנות עניים",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "נָקִי יִהְיֶה לְבֵיתוֹ שָׁנָה אֶחָת"
  },
  {
   "id": 407,
@@ -4375,7 +4772,8 @@
   "permanence": "temple-land",
   "category": "כלאיים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 408,
@@ -4386,7 +4784,8 @@
   "permanence": "temple-land",
   "category": "כלאיים",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "לֹא תַחֲרֹשׁ בְּשׁוֹר וּבַחֲמֹר"
  },
  {
   "id": 409,
@@ -4397,7 +4796,8 @@
   "permanence": "eternal",
   "category": "כלאיים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 410,
@@ -4408,7 +4808,8 @@
   "permanence": "eternal",
   "category": "כלאיים",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "לֹא תַחֲרֹשׁ בְּשׁוֹר וּבַחֲמֹר"
  },
  {
   "id": 411,
@@ -4419,7 +4820,8 @@
   "permanence": "temple-land",
   "category": "מעשרות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה"
  },
  {
   "id": 412,
@@ -4430,7 +4832,8 @@
   "permanence": "temple-land",
   "category": "מעשרות, כהונה ולוויה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "רֵאשִׁית בִּכּוּרֵי אַדְמָתְךָ תָּבִיא בֵּית ה'"
  },
  {
   "id": 413,
@@ -4441,7 +4844,8 @@
   "permanence": "temple-land",
   "category": "מעשרות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 416,
@@ -4452,7 +4856,8 @@
   "permanence": "temple-land",
   "category": "כהונה ולוויה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 417,
@@ -4463,7 +4868,8 @@
   "permanence": "temple-land",
   "category": "מעשרות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "וַיְדַבֵּר ה' אֶל מֹשֶׁה וְאֶל אַהֲרֹן לֵאמֹר אֲלֵהֶם דַּבְּרוּ אֶל בְּנֵי יִשְׂרָאֵל"
  },
  {
   "id": 418,
@@ -4474,7 +4880,8 @@
   "permanence": "temple-land",
   "category": "מעשרות, צדקה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "וַיְדַבֵּר ה' אֶל מֹשֶׁה וְאֶל אַהֲרֹן לֵאמֹר אֲלֵהֶם דַּבְּרוּ אֶל בְּנֵי יִשְׂרָאֵל"
  },
  {
   "id": 419,
@@ -4485,7 +4892,8 @@
   "permanence": "eternal",
   "category": "כהונה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 420,
@@ -4496,7 +4904,8 @@
   "permanence": "temple-land",
   "category": "כהונה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 421,
@@ -4507,7 +4916,8 @@
   "permanence": "temple-land",
   "category": "תרומות, כהונה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 422,
@@ -4518,7 +4928,8 @@
   "permanence": "temple-land",
   "category": "מעשרות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 423,
@@ -4529,7 +4940,8 @@
   "permanence": "temple-land",
   "category": "מעשרות, טהרה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 424,
@@ -4540,7 +4952,8 @@
   "permanence": "temple-land",
   "category": "מעשרות, טהרה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 425,
@@ -4551,7 +4964,8 @@
   "permanence": "temple-land",
   "category": "מעשרות",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": null
  },
  {
   "id": 426,
@@ -4562,7 +4976,8 @@
   "permanence": "temple-land",
   "category": "מקדש",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "זָכוֹר אֶת יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ… לֹא תַעֲשֶׂה כָל מְלָאכָה"
  },
  {
   "id": 427,
@@ -4573,7 +4988,8 @@
   "permanence": "temple-land",
   "category": "מקדש",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "זָכוֹר אֶת יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ… לֹא תַעֲשֶׂה כָל מְלָאכָה"
  },
  {
   "id": 428,
@@ -4584,7 +5000,8 @@
   "permanence": "temple-land",
   "category": "מקדש",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 429,
@@ -4595,7 +5012,8 @@
   "permanence": "temple-land",
   "category": "מקדש, ארון",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 430,
@@ -4606,7 +5024,8 @@
   "permanence": "temple-land",
   "category": "מקדש",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 431,
@@ -4617,7 +5036,8 @@
   "permanence": "temple-land",
   "category": "מקדש",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 432,
@@ -4628,7 +5048,8 @@
   "permanence": "temple-land",
   "category": "בגדי כהונה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 433,
@@ -4639,7 +5060,8 @@
   "permanence": "temple-land",
   "category": "מקדש, קטורת",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 434,
@@ -4650,7 +5072,8 @@
   "permanence": "temple-land",
   "category": "מקדש, קטורת",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 435,
@@ -4661,7 +5084,8 @@
   "permanence": "temple-land",
   "category": "כהונה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 436,
@@ -4672,7 +5096,8 @@
   "permanence": "temple-land",
   "category": "מקדש, מלכות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 437,
@@ -4683,7 +5108,8 @@
   "permanence": "eternal",
   "category": "מקדש",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 438,
@@ -4694,7 +5120,8 @@
   "permanence": "eternal",
   "category": "מקדש",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 439,
@@ -4705,7 +5132,8 @@
   "permanence": "eternal",
   "category": "מקדש",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 440,
@@ -4716,7 +5144,8 @@
   "permanence": "temple-land",
   "category": "קרבנות, מעילה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וְהוּא עֵד אוֹ רָאָה אוֹ יָדָע"
  },
  {
   "id": 441,
@@ -4727,7 +5156,8 @@
   "permanence": "temple-land",
   "category": "מקדש, קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "אֵשׁ תָּמִיד תּוּקַד עַל הַמִּזְבֵּחַ"
  },
  {
   "id": 442,
@@ -4738,7 +5168,8 @@
   "permanence": "temple-land",
   "category": "מקדש",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "אֵשׁ תָּמִיד תּוּקַד עַל הַמִּזְבֵּחַ"
  },
  {
   "id": 443,
@@ -4749,7 +5180,8 @@
   "permanence": "temple-land",
   "category": "מקדש",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "אֵשׁ תָּמִיד תּוּקַד עַל הַמִּזְבֵּחַ"
  },
  {
   "id": 444,
@@ -4760,7 +5192,8 @@
   "permanence": "temple-land",
   "category": "כהונה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "כִּי כֵן צֻוֵּיתִי"
  },
  {
   "id": 446,
@@ -4771,7 +5204,8 @@
   "permanence": "temple-land",
   "category": "כהונה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "כִּי כֵן צֻוֵּיתִי"
  },
  {
   "id": 447,
@@ -4782,7 +5216,8 @@
   "permanence": "temple-land",
   "category": "כהונה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "כִּי כֵן צֻוֵּיתִי"
  },
  {
   "id": 448,
@@ -4793,7 +5228,8 @@
   "permanence": "eternal",
   "category": "מקדש",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "דַּבֵּר אֶל כָּל עֲדַת בְּנֵי יִשְׂרָאֵל"
  },
  {
   "id": 449,
@@ -4804,7 +5240,8 @@
   "permanence": "temple-land",
   "category": "מקדש, לוויה",
   "flagged": true,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וּבְבֹא מֹשֶׁה אֶל־אֹהֶל מוֹעֵד לְדַבֵּר אִתּוֹ וַיִּשְׁמַע אֶת־הַקּוֹל מִדַּבֵּר אֵלָיו..."
  },
  {
   "id": 450,
@@ -4815,7 +5252,8 @@
   "permanence": "temple-land",
   "category": "מועדים, פסח",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְהִי אֲנָשִׁים אֲשֶׁר הָיוּ טְמֵאִים לְנֶפֶשׁ אָדָם... וַיֹּאמֶר אֲלֵהֶם מֹשֶׁה עִמְדוּ וְאֶשְׁמְעָה מַה־יְצַוֶּה ה' לָכֶם."
  },
  {
   "id": 451,
@@ -4826,7 +5264,8 @@
   "permanence": "temple-land",
   "category": "מועדים, פסח",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְהִי אֲנָשִׁים אֲשֶׁר הָיוּ טְמֵאִים לְנֶפֶשׁ אָדָם... וַיֹּאמֶר אֲלֵהֶם מֹשֶׁה עִמְדוּ וְאֶשְׁמְעָה מַה־יְצַוֶּה ה' לָכֶם."
  },
  {
   "id": 452,
@@ -4837,7 +5276,8 @@
   "permanence": "temple-land",
   "category": "מועדים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְהִי אֲנָשִׁים אֲשֶׁר הָיוּ טְמֵאִים לְנֶפֶשׁ אָדָם... וַיֹּאמֶר אֲלֵהֶם מֹשֶׁה עִמְדוּ וְאֶשְׁמְעָה מַה־יְצַוֶּה ה' לָכֶם."
  },
  {
   "id": 453,
@@ -4848,7 +5288,8 @@
   "permanence": "temple-land",
   "category": "מועדים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְהִי אֲנָשִׁים אֲשֶׁר הָיוּ טְמֵאִים לְנֶפֶשׁ אָדָם... וַיֹּאמֶר אֲלֵהֶם מֹשֶׁה עִמְדוּ וְאֶשְׁמְעָה מַה־יְצַוֶּה ה' לָכֶם."
  },
  {
   "id": 454,
@@ -4859,7 +5300,8 @@
   "permanence": "eternal",
   "category": "מקדש, מלחמה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ עֲשֵׂה לְךָ שְׁתֵּי חֲצוֹצְרֹת כֶּסֶף..."
  },
  {
   "id": 455,
@@ -4870,7 +5312,8 @@
   "permanence": "temple-land",
   "category": "מקדש",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "רֵאשִׁית בִּכּוּרֵי אַדְמָתְךָ תָּבִיא בֵּית ה'"
  },
  {
   "id": 456,
@@ -4881,7 +5324,8 @@
   "permanence": "temple-land",
   "category": "מקדש",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "רֵאשִׁית בִּכּוּרֵי אַדְמָתְךָ תָּבִיא בֵּית ה'"
  },
  {
   "id": 457,
@@ -4892,7 +5336,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וְהוּא עֵד אוֹ רָאָה אוֹ יָדָע"
  },
  {
   "id": 458,
@@ -4903,7 +5348,8 @@
   "permanence": "eternal",
   "category": "מקדש, קדושה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 459,
@@ -4914,7 +5360,8 @@
   "permanence": "temple-land",
   "category": "קרבנות, בכורות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "וְהִגַּדְתָּ לְבִנְךָ"
  },
  {
   "id": 460,
@@ -4925,7 +5372,8 @@
   "permanence": "temple-land",
   "category": "פסח",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 461,
@@ -4936,7 +5384,8 @@
   "permanence": "temple-land",
   "category": "פסח",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 462,
@@ -4947,7 +5396,8 @@
   "permanence": "temple-land",
   "category": "פסח",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 463,
@@ -4958,7 +5408,8 @@
   "permanence": "temple-land",
   "category": "פסח",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 464,
@@ -4969,7 +5420,8 @@
   "permanence": "temple-land",
   "category": "פסח",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 465,
@@ -4980,7 +5432,8 @@
   "permanence": "temple-land",
   "category": "פסח",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 466,
@@ -4991,7 +5444,8 @@
   "permanence": "temple-land",
   "category": "פסח",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 467,
@@ -5002,7 +5456,8 @@
   "permanence": "temple-land",
   "category": "פסח",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 468,
@@ -5013,7 +5468,8 @@
   "permanence": "temple-land",
   "category": "פסח",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 469,
@@ -5024,7 +5480,8 @@
   "permanence": "temple-land",
   "category": "פסח",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֧ר יְהֹוָ֛ה אֶל־מֹשֶׁ֖ה בְּעַֽרְבֹ֣ת מוֹאָ֑ב"
  },
  {
   "id": 470,
@@ -5035,7 +5492,8 @@
   "permanence": "temple-land",
   "category": "פסח",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֧ר יְהֹוָ֛ה אֶל־מֹשֶׁ֖ה בְּעַֽרְבֹ֣ת מוֹאָ֑ב"
  },
  {
   "id": 471,
@@ -5046,7 +5504,8 @@
   "permanence": "temple-land",
   "category": "מועדים, עלייה לרגל",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "וַיְדַבֵּ֧ר יְהֹוָ֛ה אֶל־מֹשֶׁ֖ה בְּעַֽרְבֹ֣ת מוֹאָ֑ב"
  },
  {
   "id": 472,
@@ -5057,7 +5516,8 @@
   "permanence": "temple-land",
   "category": "ביכורים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֧ר יְהֹוָ֛ה אֶל־מֹשֶׁ֖ה בְּעַֽרְבֹ֣ת מוֹאָ֑ב"
  },
  {
   "id": 473,
@@ -5068,7 +5528,8 @@
   "permanence": "temple-land",
   "category": "קרבנות, כהונה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "הוּא֩ אֲשֶׁר־דִּבֶּ֨ר יְהֹוָ֤ה לֵאמֹר֙ בִּקְרֹבַ֣י אֶקָּדֵ֔שׁ"
  },
  {
   "id": 474,
@@ -5079,7 +5540,8 @@
   "permanence": "temple-land",
   "category": "קרבנות, כהונה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "הוּא֩ אֲשֶׁר־דִּבֶּ֨ר יְהֹוָ֤ה לֵאמֹר֙ בִּקְרֹבַ֣י אֶקָּדֵ֔שׁ"
  },
  {
   "id": 475,
@@ -5090,7 +5552,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "כַּאֲשֶׁר צִוֵּיתִי"
  },
  {
   "id": 476,
@@ -5101,7 +5564,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "רֵאשִׁית בִּכּוּרֵי אַדְמָתְךָ תָּבִיא בֵּית ה'"
  },
  {
   "id": 477,
@@ -5112,7 +5576,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "רֵאשִׁית בִּכּוּרֵי אַדְמָתְךָ תָּבִיא בֵּית ה'"
  },
  {
   "id": 478,
@@ -5123,7 +5588,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "רֵאשִׁית בִּכּוּרֵי אַדְמָתְךָ תָּבִיא בֵּית ה'"
  },
  {
   "id": 479,
@@ -5134,7 +5600,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "רֵאשִׁית בִּכּוּרֵי אַדְמָתְךָ תָּבִיא בֵּית ה'"
  },
  {
   "id": 480,
@@ -5145,7 +5612,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 481,
@@ -5156,7 +5624,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 482,
@@ -5167,7 +5636,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וְהוּא עֵד אוֹ רָאָה אוֹ יָדָע"
  },
  {
   "id": 483,
@@ -5178,7 +5648,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וְהוּא עֵד אוֹ רָאָה אוֹ יָדָע"
  },
  {
   "id": 484,
@@ -5189,7 +5660,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וְהוּא עֵד אוֹ רָאָה אוֹ יָדָע"
  },
  {
   "id": 485,
@@ -5200,7 +5672,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וְהוּא עֵד אוֹ רָאָה אוֹ יָדָע"
  },
  {
   "id": 486,
@@ -5211,7 +5684,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וְהוּא עֵד אוֹ רָאָה אוֹ יָדָע"
  },
  {
   "id": 487,
@@ -5222,7 +5696,8 @@
   "permanence": "temple-land",
   "category": "קרבנות, כהונה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "אֵשׁ תָּמִיד תּוּקַד עַל הַמִּזְבֵּחַ"
  },
  {
   "id": 488,
@@ -5233,7 +5708,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "אֵשׁ תָּמִיד תּוּקַד עַל הַמִּזְבֵּחַ"
  },
  {
   "id": 489,
@@ -5244,7 +5720,8 @@
   "permanence": "temple-land",
   "category": "קרבנות, כהונה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "אֵשׁ תָּמִיד תּוּקַד עַל הַמִּזְבֵּחַ"
  },
  {
   "id": 490,
@@ -5255,7 +5732,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "אֵשׁ תָּמִיד תּוּקַד עַל הַמִּזְבֵּחַ"
  },
  {
   "id": 491,
@@ -5266,7 +5744,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "אֵשׁ תָּמִיד תּוּקַד עַל הַמִּזְבֵּחַ"
  },
  {
   "id": 492,
@@ -5277,7 +5756,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "אֵשׁ תָּמִיד תּוּקַד עַל הַמִּזְבֵּחַ"
  },
  {
   "id": 493,
@@ -5288,7 +5768,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 494,
@@ -5299,7 +5780,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 495,
@@ -5310,7 +5792,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 496,
@@ -5321,7 +5804,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 497,
@@ -5332,7 +5816,8 @@
   "permanence": "temple-land",
   "category": "קרבנות, טהרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 498,
@@ -5343,7 +5828,8 @@
   "permanence": "temple-land",
   "category": "קרבנות, טהרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 499,
@@ -5354,7 +5840,8 @@
   "permanence": "temple-land",
   "category": "קרבנות, טהרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 500,
@@ -5365,7 +5852,8 @@
   "permanence": "temple-land",
   "category": "כהונה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "כִּי כֵן צֻוֵּיתִי"
  },
  {
   "id": 501,
@@ -5376,7 +5864,8 @@
   "permanence": "temple-land",
   "category": "קרבנות, טהרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיֹּ֤אמֶר אֱלֹהִים֙ אֶל אַבְרָהָ֔ם"
  },
  {
   "id": 502,
@@ -5387,7 +5876,8 @@
   "permanence": "temple-land",
   "category": "קרבנות, צרעת",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 503,
@@ -5398,7 +5888,8 @@
   "permanence": "temple-land",
   "category": "קרבנות, טהרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 504,
@@ -5409,7 +5900,8 @@
   "permanence": "temple-land",
   "category": "קרבנות, טהרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 505,
@@ -5420,7 +5912,8 @@
   "permanence": "temple-land",
   "category": "יוה״כ, קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיֹּאמֶר ה' אֶל אַהֲרֹן"
  },
  {
   "id": 506,
@@ -5431,7 +5924,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "ו. שתיהן מנוסחות בפריים־A מובהק — מה שמעיד שגם זרם H (הקרוב לפי מחקרים מסוימים לדבריםא־כמעט־D) שמר על מסגרת A. השומר העריכתי מקפיד על"
  },
  {
   "id": 507,
@@ -5442,7 +5936,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־תָשִׂ֧ימוּ קׇרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת"
  },
  {
   "id": 508,
@@ -5453,7 +5948,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "תָּמִים יִהְיֶה"
  },
  {
   "id": 509,
@@ -5464,7 +5960,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "תָּמִים יִהְיֶה"
  },
  {
   "id": 510,
@@ -5475,7 +5972,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "תָּמִים יִהְיֶה"
  },
  {
   "id": 511,
@@ -5486,7 +5984,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "תָּמִים יִהְיֶה"
  },
  {
   "id": 512,
@@ -5497,7 +5996,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "תָּמִים יִהְיֶה"
  },
  {
   "id": 513,
@@ -5508,7 +6008,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "תָּמִים יִהְיֶה"
  },
  {
   "id": 514,
@@ -5519,7 +6020,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "תָּמִים יִהְיֶה"
  },
  {
   "id": 515,
@@ -5530,7 +6032,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "תָּמִים יִהְיֶה"
  },
  {
   "id": 516,
@@ -5541,7 +6044,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "תָּמִים יִהְיֶה"
  },
  {
   "id": 517,
@@ -5552,7 +6056,8 @@
   "permanence": "temple-land",
   "category": "מועדים, ספירת העומר",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 518,
@@ -5563,7 +6068,8 @@
   "permanence": "temple-land",
   "category": "חדש",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 521,
@@ -5574,7 +6080,8 @@
   "permanence": "temple-land",
   "category": "מועדים, שבועות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 522,
@@ -5585,7 +6092,8 @@
   "permanence": "temple-land",
   "category": "מועדים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 523,
@@ -5596,7 +6104,8 @@
   "permanence": "eternal",
   "category": "נדרים, ערכין",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה"
  },
  {
   "id": 524,
@@ -5607,7 +6116,8 @@
   "permanence": "temple-land",
   "category": "קרבנות, תמורה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה"
  },
  {
   "id": 525,
@@ -5618,7 +6128,8 @@
   "permanence": "temple-land",
   "category": "קרבנות, תמורה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה"
  },
  {
   "id": 526,
@@ -5629,7 +6140,8 @@
   "permanence": "eternal",
   "category": "ערכין",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה"
  },
  {
   "id": 527,
@@ -5640,7 +6152,8 @@
   "permanence": "eternal",
   "category": "ערכין",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה"
  },
  {
   "id": 528,
@@ -5651,7 +6164,8 @@
   "permanence": "temple-land",
   "category": "ערכין, יובל",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה"
  },
  {
   "id": 529,
@@ -5662,7 +6176,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה"
  },
  {
   "id": 530,
@@ -5673,7 +6188,8 @@
   "permanence": "temple-land",
   "category": "חרמים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה"
  },
  {
   "id": 531,
@@ -5684,7 +6200,8 @@
   "permanence": "temple-land",
   "category": "חרמים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה"
  },
  {
   "id": 532,
@@ -5695,7 +6212,8 @@
   "permanence": "temple-land",
   "category": "חרמים",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה"
  },
  {
   "id": 533,
@@ -5706,7 +6224,8 @@
   "permanence": "eternal",
   "category": "תשובה, וידוי",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ צַו אֶת־בְּנֵי יִשְׂרָאֵל וִישַׁלְּחוּ מִן־הַמַּחֲנֶה כָּל־צָרוּעַ וְכָל־זָב..."
  },
  {
   "id": 535,
@@ -5717,7 +6236,8 @@
   "permanence": "temple-land",
   "category": "סוטה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ צַו אֶת־בְּנֵי יִשְׂרָאֵל וִישַׁלְּחוּ מִן־הַמַּחֲנֶה כָּל־צָרוּעַ וְכָל־זָב..."
  },
  {
   "id": 536,
@@ -5728,7 +6248,8 @@
   "permanence": "temple-land",
   "category": "מועדים, קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 537,
@@ -5739,7 +6260,8 @@
   "permanence": "temple-land",
   "category": "שבת, קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 538,
@@ -5750,7 +6272,8 @@
   "permanence": "temple-land",
   "category": "ר״ח, קרבנות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 539,
@@ -5761,7 +6284,8 @@
   "permanence": "temple-land",
   "category": "שבועות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר"
  },
  {
   "id": 540,
@@ -5772,7 +6296,8 @@
   "permanence": "temple-land",
   "category": "ר״ה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר מֹשֶׁה אֶל רָאשֵׁי הַמַּטּוֹת... זֶה הַדָּבָר אֲשֶׁר צִוָּה יְהוָה"
  },
  {
   "id": 541,
@@ -5783,7 +6308,8 @@
   "permanence": "temple-land",
   "category": "יוה״כ",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר מֹשֶׁה אֶל רָאשֵׁי הַמַּטּוֹת... זֶה הַדָּבָר אֲשֶׁר צִוָּה יְהוָה"
  },
  {
   "id": 542,
@@ -5794,7 +6320,8 @@
   "permanence": "temple-land",
   "category": "סוכות",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר מֹשֶׁה אֶל רָאשֵׁי הַמַּטּוֹת... זֶה הַדָּבָר אֲשֶׁר צִוָּה יְהוָה"
  },
  {
   "id": 543,
@@ -5805,7 +6332,8 @@
   "permanence": "temple-land",
   "category": "שמיני עצרת",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר מֹשֶׁה אֶל רָאשֵׁי הַמַּטּוֹת... זֶה הַדָּבָר אֲשֶׁר צִוָּה יְהוָה"
  },
  {
   "id": 544,
@@ -5816,7 +6344,8 @@
   "permanence": "temple-land",
   "category": "נדרים",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 545,
@@ -5827,7 +6356,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 546,
@@ -5838,7 +6368,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 547,
@@ -5849,7 +6380,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 548,
@@ -5860,7 +6392,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 549,
@@ -5871,7 +6404,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 550,
@@ -5882,7 +6416,8 @@
   "permanence": "temple-land",
   "category": "קרבנות, כהונה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 551,
@@ -5893,7 +6428,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 552,
@@ -5904,7 +6440,8 @@
   "permanence": "temple-land",
   "category": "ביכורים, כהונה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 553,
@@ -5915,7 +6452,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 554,
@@ -5926,7 +6464,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "וַיְדַבֵּר ה' אֶל מֹשֶׁה וְאֶל אַהֲרֹן לֵאמֹר אֲלֵהֶם דַּבְּרוּ אֶל בְּנֵי יִשְׂרָאֵל"
  },
  {
   "id": 555,
@@ -5937,7 +6476,8 @@
   "permanence": "temple-land",
   "category": "קרבנות, בכור",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 556,
@@ -5948,7 +6488,8 @@
   "permanence": "temple-land",
   "category": "קרבנות, בכור",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 557,
@@ -5959,7 +6500,8 @@
   "permanence": "temple-land",
   "category": "פסח, חגיגה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 558,
@@ -5970,7 +6512,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 559,
@@ -5981,7 +6524,8 @@
   "permanence": "temple-land",
   "category": "קרבנות",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה"
  },
  {
   "id": 560,
@@ -5992,7 +6536,8 @@
   "permanence": "temple-land",
   "category": "ביכורים",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": null
  },
  {
   "id": 561,
@@ -6003,7 +6548,8 @@
   "permanence": "eternal",
   "category": "טומאה וטהרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר ה' אֶל מֹשֶׁה וְאֶל אַהֲרֹן לֵאמֹר אֲלֵהֶם דַּבְּרוּ אֶל בְּנֵי יִשְׂרָאֵל"
  },
  {
   "id": 562,
@@ -6014,7 +6560,8 @@
   "permanence": "eternal",
   "category": "טומאה וטהרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר ה' אֶל מֹשֶׁה וְאֶל אַהֲרֹן לֵאמֹר אֲלֵהֶם דַּבְּרוּ אֶל בְּנֵי יִשְׂרָאֵל"
  },
  {
   "id": 563,
@@ -6025,7 +6572,8 @@
   "permanence": "eternal",
   "category": "טומאה וטהרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר ה' אֶל מֹשֶׁה וְאֶל אַהֲרֹן לֵאמֹר אֲלֵהֶם דַּבְּרוּ אֶל בְּנֵי יִשְׂרָאֵל"
  },
  {
   "id": 564,
@@ -6036,7 +6584,8 @@
   "permanence": "eternal",
   "category": "טומאה וטהרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיֹּ֤אמֶר אֱלֹהִים֙ אֶל אַבְרָהָ֔ם"
  },
  {
   "id": 565,
@@ -6047,7 +6596,8 @@
   "permanence": "eternal",
   "category": "צרעת",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "הִשָּׁמֶר בְּנֶגַע הַצָּרַעַת"
  },
  {
   "id": 566,
@@ -6058,7 +6608,8 @@
   "permanence": "eternal",
   "category": "צרעת",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "הִשָּׁמֶר בְּנֶגַע הַצָּרַעַת"
  },
  {
   "id": 567,
@@ -6069,7 +6620,8 @@
   "permanence": "eternal",
   "category": "צרעת",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "הִשָּׁמֶר בְּנֶגַע הַצָּרַעַת"
  },
  {
   "id": 568,
@@ -6080,7 +6632,8 @@
   "permanence": "temple-land",
   "category": "צרעת",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 569,
@@ -6091,7 +6644,8 @@
   "permanence": "eternal",
   "category": "טומאה וטהרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 570,
@@ -6102,7 +6656,8 @@
   "permanence": "eternal",
   "category": "טומאה וטהרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 571,
@@ -6113,7 +6668,8 @@
   "permanence": "eternal",
   "category": "טהרה, מקווה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 572,
@@ -6124,7 +6680,8 @@
   "permanence": "eternal",
   "category": "טומאה וטהרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 573,
@@ -6135,7 +6692,8 @@
   "permanence": "eternal",
   "category": "טומאה וטהרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 574,
@@ -6146,7 +6704,8 @@
   "permanence": "temple-land",
   "category": "טהרה, פרה אדומה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "אֶל מֹשֶׁה וְאֶל אַהֲרֹן"
  },
  {
   "id": 575,
@@ -6157,7 +6716,8 @@
   "permanence": "eternal",
   "category": "טומאה וטהרה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיֹּ֨אמֶר אֶלְעָזָ֤ר הַכֹּהֵן֙ אֶל־אַנְשֵׁ֣י הַצָּבָ֔א הַבָּאִ֖ים לַמִּלְחָמָ֑ה זֹ֚את חֻקַּ֣ת הַתּוֹרָ֔ה אֲשֶׁר־צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה"
  },
  {
   "id": 576,
@@ -6168,7 +6728,8 @@
   "permanence": "temple-land",
   "category": "טהרה, פרה אדומה",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיֹּ֨אמֶר אֶלְעָזָ֤ר הַכֹּהֵן֙ אֶל־אַנְשֵׁ֣י הַצָּבָ֔א הַבָּאִ֖ים לַמִּלְחָמָ֑ה זֹ֚את חֻקַּ֣ת הַתּוֹרָ֔ה אֲשֶׁר־צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה"
  },
  {
   "id": 577,
@@ -6179,7 +6740,8 @@
   "permanence": "eternal",
   "category": "צרעת",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "הִשָּׁמֶר בְּנֶגַע הַצָּרַעַת"
  },
  {
   "id": 578,
@@ -6190,7 +6752,8 @@
   "permanence": "temple-land",
   "category": "צרעת",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 579,
@@ -6201,7 +6764,8 @@
   "permanence": "temple-land",
   "category": "צרעת",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": null
  },
  {
   "id": 580,
@@ -6212,7 +6776,8 @@
   "permanence": "eternal",
   "category": "צרעת",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "נָקִי יִהְיֶה לְבֵיתוֹ שָׁנָה אֶחָת"
  },
  {
   "id": 581,
@@ -6223,7 +6788,8 @@
   "permanence": "eternal",
   "category": "מלכות, סנהדרין",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "כִּי יַבְעֶר אִישׁ שָׂדֶה"
  },
  {
   "id": 582,
@@ -6234,7 +6800,8 @@
   "permanence": "eternal",
   "category": "מלכות",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": null
  },
  {
   "id": 583,
@@ -6245,7 +6812,8 @@
   "permanence": "eternal",
   "category": "מלכות",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": null
  },
  {
   "id": 584,
@@ -6256,7 +6824,8 @@
   "permanence": "eternal",
   "category": "מלכות",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": null
  },
  {
   "id": 585,
@@ -6267,7 +6836,8 @@
   "permanence": "eternal",
   "category": "מלכות",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": null
  },
  {
   "id": 586,
@@ -6278,7 +6848,8 @@
   "permanence": "eternal",
   "category": "מלכות",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": null
  },
  {
   "id": 587,
@@ -6289,7 +6860,8 @@
   "permanence": "eternal",
   "category": "מלכות",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": null
  },
  {
   "id": 588,
@@ -6300,7 +6872,8 @@
   "permanence": "eternal",
   "category": "נזיר",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר ה' אֶל־מֹשֶׁה לֵּאמֹר. דַּבֵּר אֶל־בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם אִישׁ אוֹ־אִשָּׁה כִּי יַפְלִא לִנְדֹּר נֶדֶר נָזִיר..."
  },
  {
   "id": 589,
@@ -6311,7 +6884,8 @@
   "permanence": "eternal",
   "category": "נזיר",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר ה' אֶל־מֹשֶׁה לֵּאמֹר. דַּבֵּר אֶל־בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם אִישׁ אוֹ־אִשָּׁה כִּי יַפְלִא לִנְדֹּר נֶדֶר נָזִיר..."
  },
  {
   "id": 590,
@@ -6322,7 +6896,8 @@
   "permanence": "eternal",
   "category": "נזיר",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר ה' אֶל־מֹשֶׁה לֵּאמֹר. דַּבֵּר אֶל־בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם אִישׁ אוֹ־אִשָּׁה כִּי יַפְלִא לִנְדֹּר נֶדֶר נָזִיר..."
  },
  {
   "id": 591,
@@ -6333,7 +6908,8 @@
   "permanence": "eternal",
   "category": "נזיר",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר ה' אֶל־מֹשֶׁה לֵּאמֹר. דַּבֵּר אֶל־בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם אִישׁ אוֹ־אִשָּׁה כִּי יַפְלִא לִנְדֹּר נֶדֶר נָזִיר..."
  },
  {
   "id": 592,
@@ -6344,7 +6920,8 @@
   "permanence": "eternal",
   "category": "נזיר",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר ה' אֶל־מֹשֶׁה לֵּאמֹר. דַּבֵּר אֶל־בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם אִישׁ אוֹ־אִשָּׁה כִּי יַפְלִא לִנְדֹּר נֶדֶר נָזִיר..."
  },
  {
   "id": 593,
@@ -6355,7 +6932,8 @@
   "permanence": "eternal",
   "category": "נזיר",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר ה' אֶל־מֹשֶׁה לֵּאמֹר. דַּבֵּר אֶל־בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם אִישׁ אוֹ־אִשָּׁה כִּי יַפְלִא לִנְדֹּר נֶדֶר נָזִיר..."
  },
  {
   "id": 594,
@@ -6366,7 +6944,8 @@
   "permanence": "eternal",
   "category": "נזיר",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר ה' אֶל־מֹשֶׁה לֵּאמֹר. דַּבֵּר אֶל־בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם אִישׁ אוֹ־אִשָּׁה כִּי יַפְלִא לִנְדֹּר נֶדֶר נָזִיר..."
  },
  {
   "id": 595,
@@ -6377,7 +6956,8 @@
   "permanence": "eternal",
   "category": "נזיר",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר ה' אֶל־מֹשֶׁה לֵּאמֹר. דַּבֵּר אֶל־בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם אִישׁ אוֹ־אִשָּׁה כִּי יַפְלִא לִנְדֹּר נֶדֶר נָזִיר..."
  },
  {
   "id": 596,
@@ -6388,7 +6968,8 @@
   "permanence": "eternal",
   "category": "נזיר",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר ה' אֶל־מֹשֶׁה לֵּאמֹר. דַּבֵּר אֶל־בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם אִישׁ אוֹ־אִשָּׁה כִּי יַפְלִא לִנְדֹּר נֶדֶר נָזִיר..."
  },
  {
   "id": 597,
@@ -6399,7 +6980,8 @@
   "permanence": "eternal",
   "category": "נזיר",
   "flagged": false,
-  "frame_sub": null
+  "frame_sub": null,
+  "quote": "וַיְדַבֵּר ה' אֶל־מֹשֶׁה לֵּאמֹר. דַּבֵּר אֶל־בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם אִישׁ אוֹ־אִשָּׁה כִּי יַפְלִא לִנְדֹּר נֶדֶר נָזִיר..."
  },
  {
   "id": 598,
@@ -6410,7 +6992,8 @@
   "permanence": "eternal",
   "category": "מלחמה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 599,
@@ -6421,7 +7004,8 @@
   "permanence": "eternal",
   "category": "מלחמה, כהונה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 600,
@@ -6432,7 +7016,8 @@
   "permanence": "eternal",
   "category": "מלחמה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 601,
@@ -6443,7 +7028,8 @@
   "permanence": "one-time",
   "category": "מלחמה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 602,
@@ -6454,7 +7040,8 @@
   "permanence": "one-time",
   "category": "מלחמה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 603,
@@ -6465,7 +7052,8 @@
   "permanence": "eternal",
   "category": "מלחמה, בל תשחית",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": null
  },
  {
   "id": 604,
@@ -6476,7 +7064,8 @@
   "permanence": "eternal",
   "category": "מלחמה",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": null
  },
  {
   "id": 605,
@@ -6487,7 +7076,8 @@
   "permanence": "eternal",
   "category": "מלחמה",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": null
  },
  {
   "id": 606,
@@ -6498,7 +7088,8 @@
   "permanence": "eternal",
   "category": "מלחמה",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": null
  },
  {
   "id": 607,
@@ -6509,7 +7100,8 @@
   "permanence": "one-time",
   "category": "מלחמה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה"
  },
  {
   "id": 608,
@@ -6520,7 +7112,8 @@
   "permanence": "temple-land",
   "category": "מלחמה, טהרה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה"
  },
  {
   "id": 609,
@@ -6531,7 +7124,8 @@
   "permanence": "eternal",
   "category": "מלחמה, טהרה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה"
  },
  {
   "id": 610,
@@ -6542,7 +7136,8 @@
   "permanence": "eternal",
   "category": "מלחמה, טהרה",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה"
  },
  {
   "id": 611,
@@ -6553,7 +7148,8 @@
   "permanence": "eternal",
   "category": "עמלק, זיכרון",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "זָכוֹר אֵת אֲשֶׁר עָשָׂה לְךָ עֲמָלֵק"
  },
  {
   "id": 612,
@@ -6564,7 +7160,8 @@
   "permanence": "eternal",
   "category": "עמלק",
   "frame_sub": "D-only",
-  "flagged": true
+  "flagged": true,
+  "quote": "זָכוֹר אֵת אֲשֶׁר עָשָׂה לְךָ עֲמָלֵק"
  },
  {
   "id": 613,
@@ -6575,6 +7172,7 @@
   "permanence": "one-time",
   "category": "מלחמה, עמלק",
   "frame_sub": "D+A",
-  "flagged": false
+  "flagged": false,
+  "quote": "זָכוֹר אֵת אֲשֶׁר עָשָׂה לְךָ עֲמָלֵק"
  }
 ]
