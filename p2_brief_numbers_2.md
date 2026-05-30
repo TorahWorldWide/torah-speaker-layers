@@ -1,0 +1,3 @@
+TERRITORY: Numbers (Bamidbar) chapters 20–36. Output in HEBREW.
+Scan every commandment and classify per schema. Key blocks: Balak (22-24, narrative), Pinchas + festival sacrifices (28-29, A-frame), VOWS (30 — CRITICAL: 30:2 "וַיְדַבֵּר מֹשֶׁה אֶל רָאשֵׁי הַמַּטּוֹת... זֶה הַדָּבָר אֲשֶׁר צִוָּה ה'" is THE classic B-frame that Rashbam and Ramban flagged — analyze exhaustively, quote with nikud, and note Ramban's point that the A-frame appears at the END, 30:17 "אֵלֶּה הַחֻקִּים אֲשֶׁר צִוָּה ה'"), Midian war, inheritance of Tzelophchad's daughters (27, 36), cities of refuge (35). Flag every B and C frame. The vows passage (30) is second in importance only to the fire prohibition.
+Write findings to /home/ubuntu/torah-research/p2_numbers_2.md

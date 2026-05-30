@@ -1,0 +1,3 @@
+TERRITORY: Leviticus (Vayikra) chapters 1–16. Output in HEBREW.
+Scan every commandment and classify per schema. Key blocks: sacrifices (1-7), priestly inauguration (8-10 — note 9:6 "וַיֹּאמֶר מֹשֶׁה זֶה הַדָּבָר אֲשֶׁר צִוָּה ה'" which Ramban flagged as a B-frame parallel to the fire case; analyze it), kashrut (11 — CRITICAL: quote the opening 11:1-2 "וַיְדַבֵּר ה' אֶל מֹשֶׁה וְאֶל אַהֲרֹן" to confirm kashrut is A-frame direct divine), childbirth/purity (12), tzaraat (13-14), Yom Kippur (16). Note how many chapters open with "וַיְדַבֵּר ה' אֶל מֹשֶׁה לֵּאמֹר".
+Write findings to /home/ubuntu/torah-research/p2_leviticus_1.md

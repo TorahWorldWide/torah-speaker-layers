@@ -1,0 +1,4 @@
+TERRITORY: Exodus (Shemot) chapters 25–40. Output in HEBREW.
+THIS BLOCK CONTAINS THE FIRE PROHIBITION (35:3) — the heart of the whole research. Scan every commandment and classify per schema. Key blocks: the Mishkan command (25-31, all "וַיְדַבֵּר ה' אֶל מֹשֶׁה" = A, including the Shabbat sign 31:12-17), golden calf + second tablets + the "cultic decalogue" (34, including 34:21 plowing/harvest Shabbat and 34:26 milk-and-meat), and Vayakhel-Pekudei (35-40).
+CRITICAL: analyze Exodus 35:1-3 exhaustively. Quote 35:1 ("וַיַּקְהֵל מֹשֶׁה... אֵלֶּה הַדְּבָרִים אֲשֶׁר צִוָּה ה'") and 35:3 ("לֹא תְבַעֲרוּ אֵשׁ") with nikud. Confirm: is this B-frame? Is there ANY A-frame anywhere with the word fire/kindling in a Shabbat command (cross-check 31:12-17 and 35:2)? Apply the decisive test rigorously.
+Write findings to /home/ubuntu/torah-research/p2_exodus_2.md

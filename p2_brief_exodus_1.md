@@ -1,0 +1,3 @@
+TERRITORY: Exodus (Shemot) chapters 1–24. Output in HEBREW.
+Scan every law/commandment and classify per schema. Key blocks: Passover-in-Egypt laws (12-13 — note 13:3 "וַיֹּאמֶר מֹשֶׁה אֶל הָעָם" is a B-frame; check which Passover laws are A vs B), the manna/Shabbat passage (16 — note 16:29 and the wood/cooking), the Decalogue (20 — heard directly by the people, special A), the Covenant Code (21-23 — "Mishpatim", check the opening frame at 20:22/21:1), covenant ratification (24). For EACH commandment apply the decisive test: direct A-frame for the specific content? Flag every B-frame.
+Write findings to /home/ubuntu/torah-research/p2_exodus_1.md

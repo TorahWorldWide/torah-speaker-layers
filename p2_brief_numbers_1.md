@@ -1,0 +1,3 @@
+TERRITORY: Numbers (Bamidbar) chapters 1–19. Output in HEBREW.
+Scan every commandment and classify per schema. Key blocks: census + camp (1-4), sundry laws incl. sotah & nazir (5-6 — note priestly blessing 6:23), dedication (7 — note the narrator-note 7:9 "בַּכָּתֵף יִשָּׂאוּ" which is a C-frame commandment source), Pesach Sheni (9), trumpets (10), sundry (15 — includes tzitzit and the wood-gatherer narrative 15:32-36), Korach + priestly dues (16-18), Para Aduma (19). Flag every B and C frame. Note the wood-gatherer episode carefully (it's narrative C that establishes Shabbat death penalty in practice).
+Write findings to /home/ubuntu/torah-research/p2_numbers_1.md

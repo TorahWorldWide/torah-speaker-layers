@@ -1,0 +1,3 @@
+TERRITORY: Leviticus (Vayikra) chapters 17–27 (the Holiness Code). Output in HEBREW.
+Scan every commandment and classify per schema. Key blocks: forbidden slaughter (17 — note opening frame), forbidden relations (18), Kedoshim holiness laws (19 — many mitzvot, check the opening 19:1-2 frame), Emor priestly + festivals (21-23 — note the festival/Shabbat passage 23:3 is A-frame direct divine), Behar shemitta/yovel (25), Bechukotai blessings-curses (26 — note Megillah 31b says the Leviticus curses are "מפי הגבורה", divine, unlike Deuteronomy's). For each, apply the decisive test. Flag any B or C frame.
+Write findings to /home/ubuntu/torah-research/p2_leviticus_2.md

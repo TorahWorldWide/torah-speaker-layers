@@ -1,0 +1,3 @@
+TERRITORY: Genesis (Bereshit), ALL 50 chapters. Output in HEBREW.
+Genesis is narrative-heavy. Scan for every commandment / divine directive and classify per the schema (A/B/C). Key items: be fruitful and multiply (1:28), Noahide directives (9:1-7), circumcision to Abraham (17), the sinew/gid hanasheh narrator-note (32:33). Note carefully: most divine speech here is to individuals (Adam, Noah, Abraham, Jacob) BEFORE Sinai — classify the frame precisely (is it "וַיֹּאמֶר אֱלֹהִים/ה' אֶל..." = A-type direct, or narrator note = C?). Flag any commandment given as a narrator's statement rather than divine speech (gid hanasheh is the classic C case).
+Write findings to /home/ubuntu/torah-research/p2_genesis.md
